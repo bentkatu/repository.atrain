@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.atrain" name="atrain" version="0.0.1" provider-name="ad">
+	<extension point="xbmc.addon.repository" name="atrain">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/bentkatu/repository.atrain/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/bentkatu/repository.atrain/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">A little of this and a little of that</summary>
+		<description lang="en">A big bag of tricks that will continue to evolve as the developer herself evolves</description>
+		<genre>comedy,documentary,health,kids,livetv,movies,sports,tvshows,usa</genre>
+	</extension>
+</addon>
