@@ -67,8 +67,6 @@ BASE2 = "plugin://plugin.video.youtube/channel/"
 YOUTUBE_CHANNEL_ID_1 = "PLSrXjFYZsRuOyZYsfqO4VwCcCEwAM4-0G"
 YOUTUBE_CHANNEL_ID_2 = "PLBZPD9ejFC783PvNt6jbv11no0r4_WLCs"
 YOUTUBE_CHANNEL_ID_3 = "PLBZPD9ejFC79A48qTd2hdjReDYQsYiOfJ"
-YOUTUBE_CHANNEL_ID_4 = "PLlJDPmb6OexrDnAFNBNJez8zRe4EECDZY"
-YOUTUBE_CHANNEL_ID_5 = "UCBDT-Kl4nHgEvpwYfLb315w"
 
 #----------------------------------------------------------------
 
@@ -120,14 +118,6 @@ def Main_Menu():
         name="CanesAllAccess 2017 Camp Highlights", url=BASE+YOUTUBE_CHANNEL_ID_3+"/", folder=True,
         icon="http://media.hometeamsonline.com/photos/football/TNTFOOTBALL/New-2012-Hurricane-Logo.png")
 
-    Add_Dir( 
-        name="Sea Fishing videos from TAFishing", url=BASE+YOUTUBE_CHANNEL_ID_4+"/", folder=True,
-        icon="https://yt3.ggpht.com/-P2USlMtGNXo/AAAAAAAAAAI/AAAAAAAAAAA/sDV3FPYrotM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg")
-
-# Add some YT channels (see we're using BASE2 as the url for this one)
-    Add_Dir( 
-        name="Uncut Angling Channel", url=BASE2+YOUTUBE_CHANNEL_ID_5+"/", folder=True,
-        icon="https://yt3.ggpht.com/-8Rt7LjDZrtU/AAAAAAAAAAI/AAAAAAAAAAA/-0-9PLOJWXM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg")
 #----------------------------------------------------------------
 # A basic OK Dialog
 @route(mode='koding_settings')
