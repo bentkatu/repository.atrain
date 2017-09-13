@@ -65,8 +65,8 @@ BASE2 = "plugin://plugin.video.youtube/channel/"
 
 # Set each of your YouTube playlist id's
 YOUTUBE_CHANNEL_ID_1 = "PLSrXjFYZsRuOyZYsfqO4VwCcCEwAM4-0G"
-YOUTUBE_CHANNEL_ID_2 = "PLnDj4GODT_QpaemQB4395I9wRwCnZvx6x"
-YOUTUBE_CHANNEL_ID_3 = "PLfb8E7lARImvzrAq0O6jyQcstw7aKZvLq"
+YOUTUBE_CHANNEL_ID_2 = "PLBZPD9ejFC783PvNt6jbv11no0r4_WLCs"
+YOUTUBE_CHANNEL_ID_3 = "PLBZPD9ejFC79A48qTd2hdjReDYQsYiOfJ"
 YOUTUBE_CHANNEL_ID_4 = "PLlJDPmb6OexrDnAFNBNJez8zRe4EECDZY"
 YOUTUBE_CHANNEL_ID_5 = "UCBDT-Kl4nHgEvpwYfLb315w"
 
@@ -110,15 +110,15 @@ def Main_Menu():
 # Add some YT Playlists (see we're using BASE as the url)
     Add_Dir( 
         name="ACC Digital Network Miami Hurricanes", url=BASE+YOUTUBE_CHANNEL_ID_1+"/", folder=True,
-        icon="http://cdn.bleacherreport.net/images_root/slides/photos/000/856/661/acc_logo_display_image.jpg?1302656534")
+        icon="http://content.sportslogos.net/logos/153/4659/full/9190__atlantic_coast_conference-primary-1982.png")
 
     Add_Dir( 
-        name="Fly TV", url=BASE+YOUTUBE_CHANNEL_ID_2+"/", folder=True,
-        icon="https://yt3.ggpht.com/-ldvmtOEepRk/AAAAAAAAAAI/AAAAAAAAAAA/OOEsBMgcqQI/s100-c-k-no-mo-rj-c0xffffff/photo.jpg")
+        name="CanesAllAccess 2017 Football Highlights", url=BASE+YOUTUBE_CHANNEL_ID_2+"/", folder=True,
+        icon="http://api.silverchalice.co/sports/logos/mifl/school_logo_large_dark.png")
 
     Add_Dir( 
-        name="Fishing videos from DALLMYD", url=BASE+YOUTUBE_CHANNEL_ID_3+"/", folder=True,
-        icon="https://yt3.ggpht.com/-HB9PwSeNSE8/AAAAAAAAAAI/AAAAAAAAAAA/LmADXY0mgbA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg")
+        name="CanesAllAccess 2017 Camp Highlights", url=BASE+YOUTUBE_CHANNEL_ID_3+"/", folder=True,
+        icon="http://media.hometeamsonline.com/photos/football/TNTFOOTBALL/New-2012-Hurricane-Logo.png")
 
     Add_Dir( 
         name="Sea Fishing videos from TAFishing", url=BASE+YOUTUBE_CHANNEL_ID_4+"/", folder=True,
