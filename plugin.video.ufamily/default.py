@@ -24,8 +24,8 @@
     you choose to use their work as a base for your own.
 """
 # License: GPL (http://www.gnu.org/licenses/gpl-3.0.html)
-# Addon: My YouTube Add-on
-# Author: Add your name here
+# Addon: UFamily
+# Author: ad
 
 #----------------------------------------------------------------
 
@@ -64,7 +64,7 @@ BASE  = "plugin://plugin.video.youtube/playlist/"
 BASE2 = "plugin://plugin.video.youtube/channel/"
 
 # Set each of your YouTube playlist id's
-YOUTUBE_CHANNEL_ID_1 = "PLRjomIk8urmEj_1boB4qG-sJfLLfbJqq2"
+YOUTUBE_CHANNEL_ID_1 = "PLSrXjFYZsRuOyZYsfqO4VwCcCEwAM4-0G"
 YOUTUBE_CHANNEL_ID_2 = "PLnDj4GODT_QpaemQB4395I9wRwCnZvx6x"
 YOUTUBE_CHANNEL_ID_3 = "PLfb8E7lARImvzrAq0O6jyQcstw7aKZvLq"
 YOUTUBE_CHANNEL_ID_4 = "PLlJDPmb6OexrDnAFNBNJez8zRe4EECDZY"
@@ -109,8 +109,8 @@ def Main_Menu():
         
 # Add some YT Playlists (see we're using BASE as the url)
     Add_Dir( 
-        name="Popular Fly Fishing Videos", url=BASE+YOUTUBE_CHANNEL_ID_1+"/", folder=True,
-        icon="http://www.free-icons-download.net/images/fishing-icons-23810.png")
+        name="ACC Digital Network Miami Hurricanes", url=BASE+YOUTUBE_CHANNEL_ID_1+"/", folder=True,
+        icon="http://cdn.bleacherreport.net/images_root/slides/photos/000/856/661/acc_logo_display_image.jpg?1302656534")
 
     Add_Dir( 
         name="Fly TV", url=BASE+YOUTUBE_CHANNEL_ID_2+"/", folder=True,
