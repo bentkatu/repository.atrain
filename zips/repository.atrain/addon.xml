@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.atrain" name="atrain" version="0.0.2" provider-name="ad">
+<addon id="repository.atrain" name="atrain" version="0.0.1" provider-name="ad">
 	<extension point="xbmc.addon.repository" name="atrain">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
