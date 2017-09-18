@@ -10,7 +10,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Miami Hurricanes Football Videos</summary>
-		<description lang="en">All of your Miami Hurricanes Football videos in one easily accessible location.</description>
+		<description lang="en">All of your Miami Hurricanes Football videos in one easily accessible location</description>
 		<platform>all</platform>
 		<forum>http://www.noobsandnerds.com/support</forum>
 		<website>www.noobsandnerds.com</website>
