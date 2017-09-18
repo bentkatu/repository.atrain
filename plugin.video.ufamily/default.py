@@ -105,6 +105,10 @@ def Main_Menu():
         name="CanesAllAccess 2017 Camp Highlights", url=BASE+YOUTUBE_CHANNEL_ID_3+"/", folder=True,
         icon="http://media.hometeamsonline.com/photos/football/TNTFOOTBALL/New-2012-Hurricane-Logo.png")
 
+    Add_Dir(
+        name="30 for 30 The U", koding.Play_Video(https://kingvid.tv/8mxbur7u6vhf), folder=True,
+        icon="http://i60.tinypic.com/mhaxqg.jpg")
+
 #----------------------------------------------------------------
 # A basic OK Dialog
 @route(mode='koding_settings')
