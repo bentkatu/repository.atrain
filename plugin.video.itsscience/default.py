@@ -25,7 +25,7 @@
 """
 License: GPL (http://www.gnu.org/licenses/gpl-3.0.html)
 Addon: Its Science
-Author: ad
+Author: whufclee, ad
 
 #----------------------------------------------------------------
 
