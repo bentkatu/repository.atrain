@@ -23,9 +23,9 @@
     months if not years on the code so really it's the very least you can do if
     you choose to use their work as a base for your own.
 """
-License: GPL (http://www.gnu.org/licenses/gpl-3.0.html)
-Addon: Its Science
-Author: whufclee, ad
+# License: GPL (http://www.gnu.org/licenses/gpl-3.0.html)
+# Addon: Its Science
+# Author: whufclee, ad
 
 #----------------------------------------------------------------
 
