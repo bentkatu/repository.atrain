@@ -64,13 +64,9 @@ BASE  = "plugin://plugin.video.youtube/playlist/"
 BASE2 = "plugin://plugin.video.youtube/channel/"
 
 # Set each of your YouTube playlist id's
-YOUTUBE_CHANNEL_ID_1 = "PLRjomIk8urmEj_1boB4qG-sJfLLfbJqq2"
-YOUTUBE_CHANNEL_ID_2 = "PLnDj4GODT_QpaemQB4395I9wRwCnZvx6x"
-YOUTUBE_CHANNEL_ID_3 = "PLfb8E7lARImvzrAq0O6jyQcstw7aKZvLq"
-YOUTUBE_CHANNEL_ID_4 = "PLlJDPmb6OexrDnAFNBNJez8zRe4EECDZY"
-YOUTUBE_CHANNEL_ID_5 = "UC0K_l9SdWTPD9HGs_LJNjiQ"
-YOUTUBE_CHANNEL_ID_6 = "UC1mIxTEk1Q9IMIPwV67JSdQ"
-YOUTUBE_CHANNEL_ID_7 = "UCSMyMeA9D3FU1xwbWOYk-wQ"
+YOUTUBE_CHANNEL_ID_1 = "UC0K_l9SdWTPD9HGs_LJNjiQ"
+YOUTUBE_CHANNEL_ID_2 = "UC1mIxTEk1Q9IMIPwV67JSdQ"
+YOUTUBE_CHANNEL_ID_3 = "UCSMyMeA9D3FU1xwbWOYk-wQ"
 
 #----------------------------------------------------------------
 
@@ -101,35 +97,18 @@ def Main_Menu():
         Add_Dir ( '[COLOR=lime]Koding Tutorials[/COLOR]', '', "tutorials", True, '', '', '' )
     else:
         Add_Dir ( '[COLOR=lime]Enable debug mode for some cool dev tools![/COLOR]', '', "koding_settings", False, '', '', '' )
-        
-# Add some YT Playlists (see we're using BASE as the url)
-    Add_Dir( 
-        name="Popular Fly Fishing Videos", url=BASE+YOUTUBE_CHANNEL_ID_1+"/", folder=True,
-        icon="http://www.free-icons-download.net/images/fishing-icons-23810.png")
-
-    Add_Dir( 
-        name="Fly TV", url=BASE+YOUTUBE_CHANNEL_ID_2+"/", folder=True,
-        icon="https://yt3.ggpht.com/-ldvmtOEepRk/AAAAAAAAAAI/AAAAAAAAAAA/OOEsBMgcqQI/s100-c-k-no-mo-rj-c0xffffff/photo.jpg")
-
-    Add_Dir( 
-        name="Fishing videos from DALLMYD", url=BASE+YOUTUBE_CHANNEL_ID_3+"/", folder=True,
-        icon="https://yt3.ggpht.com/-HB9PwSeNSE8/AAAAAAAAAAI/AAAAAAAAAAA/LmADXY0mgbA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg")
-
-    Add_Dir( 
-        name="Sea Fishing videos from TAFishing", url=BASE+YOUTUBE_CHANNEL_ID_4+"/", folder=True,
-        icon="https://yt3.ggpht.com/-P2USlMtGNXo/AAAAAAAAAAI/AAAAAAAAAAA/sDV3FPYrotM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg")
 
 # Add some YT channels (see we're using BASE2 as the url for this one)
     Add_Dir( 
-        name="Animal Channel", url=BASE2+YOUTUBE_CHANNEL_ID_5+"/", folder=True,
+        name="Animal Channel", url=BASE2+YOUTUBE_CHANNEL_ID_1+"/", folder=True,
         icon="http://static.howstuffworks.com/gif/dangerous-animals-250x150.jpg")
 
     Add_Dir( 
-        name="NatGeo Documentary Channel", url=BASE2+YOUTUBE_CHANNEL_ID_6+"/", folder=True,
+        name="NatGeo Documentary Channel", url=BASE2+YOUTUBE_CHANNEL_ID_2+"/", folder=True,
         icon="http://3.bp.blogspot.com/-pIXc-rMhRKw/TzJwcaErONI/AAAAAAAAALU/99rhOQpBG_I/s1600/HQ+Elephant+and+baby+playing+durty+place+images.jpg")
 
     Add_Dir( 
-        name="NatGeo Documentary Channel 2", url=BASE2+YOUTUBE_CHANNEL_ID_7+"/", folder=True,
+        name="NatGeo Documentary Channel 2", url=BASE2+YOUTUBE_CHANNEL_ID_3+"/", folder=True,
         icon="http://voices.nationalgeographic.com/files/2013/11/Bacteria-Help-Hyenas-Communicate-s2048x1365-p.jpg")
 #----------------------------------------------------------------
 # A basic OK Dialog
