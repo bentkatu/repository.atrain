@@ -68,7 +68,9 @@ YOUTUBE_CHANNEL_ID_1 = "PLRjomIk8urmEj_1boB4qG-sJfLLfbJqq2"
 YOUTUBE_CHANNEL_ID_2 = "PLnDj4GODT_QpaemQB4395I9wRwCnZvx6x"
 YOUTUBE_CHANNEL_ID_3 = "PLfb8E7lARImvzrAq0O6jyQcstw7aKZvLq"
 YOUTUBE_CHANNEL_ID_4 = "PLlJDPmb6OexrDnAFNBNJez8zRe4EECDZY"
-YOUTUBE_CHANNEL_ID_5 = "UCBDT-Kl4nHgEvpwYfLb315w"
+YOUTUBE_CHANNEL_ID_5 = "UC0K_l9SdWTPD9HGs_LJNjiQ"
+YOUTUBE_CHANNEL_ID_6 = "UC1mIxTEk1Q9IMIPwV67JSdQ"
+YOUTUBE_CHANNEL_ID_6 = "UCSMyMeA9D3FU1xwbWOYk-wQ"
 
 #----------------------------------------------------------------
 
@@ -119,8 +121,16 @@ def Main_Menu():
 
 # Add some YT channels (see we're using BASE2 as the url for this one)
     Add_Dir( 
-        name="Uncut Angling Channel", url=BASE2+YOUTUBE_CHANNEL_ID_5+"/", folder=True,
-        icon="https://yt3.ggpht.com/-8Rt7LjDZrtU/AAAAAAAAAAI/AAAAAAAAAAA/-0-9PLOJWXM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg")
+        name="Animal Channel", url=BASE2+YOUTUBE_CHANNEL_ID_5+"/", folder=True,
+        icon="http://static.howstuffworks.com/gif/dangerous-animals-250x150.jpg")
+
+    Add_Dir( 
+        name="NatGeo Documentary Channel", url=BASE2+YOUTUBE_CHANNEL_ID_6+"/", folder=True,
+        icon="http://3.bp.blogspot.com/-pIXc-rMhRKw/TzJwcaErONI/AAAAAAAAALU/99rhOQpBG_I/s1600/HQ+Elephant+and+baby+playing+durty+place+images.jpg")
+
+    Add_Dir( 
+        name="NatGeo Documentary Channel 2", url=BASE2+YOUTUBE_CHANNEL_ID_7+"/", folder=True,
+        icon="http://voices.nationalgeographic.com/files/2013/11/Bacteria-Help-Hyenas-Communicate-s2048x1365-p.jpg")
 #----------------------------------------------------------------
 # A basic OK Dialog
 @route(mode='koding_settings')
