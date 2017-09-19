@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.itsscience" name="Its Science" version="0.0.1" provider-name="ad">
+<addon id="plugin.video.itsscience" name="Its Science" version="0.0.1" provider-name="whufclee, ad">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />
