@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.itsscience" name="Its Science" version="0.0.2" provider-name="whufclee, ad">
+<addon id="plugin.video.itsscience" name="Its Science" version="0.0.3" provider-name="whufclee, ad">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />
@@ -22,7 +22,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.atrain" name="atrain" version="0.0.2" provider-name="ad">
+<addon id="repository.atrain" name="atrain" version="0.0.3" provider-name="ad">
 	<extension point="xbmc.addon.repository" name="atrain">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
