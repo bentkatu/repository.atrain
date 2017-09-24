@@ -68,6 +68,8 @@ YOUTUBE_CHANNEL_ID_1 = "UC0K_l9SdWTPD9HGs_LJNjiQ"
 YOUTUBE_CHANNEL_ID_2 = "UC1mIxTEk1Q9IMIPwV67JSdQ"
 YOUTUBE_CHANNEL_ID_3 = "UCSMyMeA9D3FU1xwbWOYk-wQ"
 YOUTUBE_CHANNEL_ID_4 = "UCbq-4OJxnziD3awH-aTezeA"
+YOUTUBE_CHANNEL_ID_5 = "UC4o2GO7M1OHmhjjVWLuL_PA"
+YOUTUBE_CHANNEL_ID_6 = "UC-_4VXpVLfaHhL4vddRkRUQ"
 
 #----------------------------------------------------------------
 
@@ -115,6 +117,14 @@ def Main_Menu():
     Add_Dir( 
         name="Wild Things", url=BASE2+YOUTUBE_CHANNEL_ID_4+"/", folder=True,
         icon="http://alltotems.com/wp-content/uploads/2013/03/monkey-meaning-and-symbol.jpg")
+
+    Add_Dir( 
+        name="WildLife Documentary", url=BASE2+YOUTUBE_CHANNEL_ID_5+"/", folder=True,
+        icon="http://4.bp.blogspot.com/-ofkKY5trJmE/T7HhWyyoLmI/AAAAAAAAJoE/w3DaL3-SVQY/s1600/amazon_rainforest_peru02.jpg")
+
+    Add_Dir( 
+        name="Animal Life", url=BASE2+YOUTUBE_CHANNEL_ID_6+"/", folder=True,
+        icon="http://4.bp.blogspot.com/-S4q0SaN2KCU/ULvwn6htn8I/AAAAAAAAVNo/IpK7-hBkJas/s1600/Saltwater+crocodile+9.jpg")
 #----------------------------------------------------------------
 # A basic OK Dialog
 @route(mode='koding_settings')
