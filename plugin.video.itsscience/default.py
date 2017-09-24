@@ -67,6 +67,7 @@ BASE2 = "plugin://plugin.video.youtube/channel/"
 YOUTUBE_CHANNEL_ID_1 = "UC0K_l9SdWTPD9HGs_LJNjiQ"
 YOUTUBE_CHANNEL_ID_2 = "UC1mIxTEk1Q9IMIPwV67JSdQ"
 YOUTUBE_CHANNEL_ID_3 = "UCSMyMeA9D3FU1xwbWOYk-wQ"
+YOUTUBE_CHANNEL_ID_4 = "UCbq-4OJxnziD3awH-aTezeA"
 
 #----------------------------------------------------------------
 
@@ -110,6 +111,10 @@ def Main_Menu():
     Add_Dir( 
         name="NatGeo Documentary Channel 2", url=BASE2+YOUTUBE_CHANNEL_ID_3+"/", folder=True,
         icon="http://voices.nationalgeographic.com/files/2013/11/Bacteria-Help-Hyenas-Communicate-s2048x1365-p.jpg")
+
+    Add_Dir( 
+        name="Wild Things", url=BASE2+YOUTUBE_CHANNEL_ID_4+"/", folder=True,
+        icon="http://alltotems.com/wp-content/uploads/2013/03/monkey-meaning-and-symbol.jpg")
 #----------------------------------------------------------------
 # A basic OK Dialog
 @route(mode='koding_settings')
