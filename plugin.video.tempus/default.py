@@ -18,7 +18,7 @@ addon_id     = xbmcaddon.Addon().getAddonInfo('id') # Grab our add-on id
 home         = xbmc.translatePath('special://home') # Set the path of the home Kodi folder
 
 # Our master XML we want to load up
-main_xml     = 'http://totalrevolution.tv/xmls/main_menu.xml'
+main_xml     = 'https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempus/resources/video.xml'
 
 """
     SECTION 5:
