@@ -29,8 +29,8 @@ def Start():
 def Main_Menu(url=main_xml):
 
 # If debug mode is enabled show the koding tutorials
-    if debug == 'true':
-        Add_Dir ( '[COLOR=lime]Koding Tutorials[/COLOR]', '', "tutorials", True, '', '', '' )
+    #if debug == 'true':
+        #Add_Dir ( '[COLOR=lime]Koding Tutorials[/COLOR]', '', "tutorials", True, '', '', '' )
 
 #############################################################
 # COMMENT OUT THE FOLLOWING 2 LINES WHEN READY FOR RELEASE!!!
