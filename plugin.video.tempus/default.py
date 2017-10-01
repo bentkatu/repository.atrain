@@ -20,23 +20,6 @@ home         = xbmc.translatePath('special://home') # Set the path of the home K
 # Our master XML we want to load up
 main_xml     = 'https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempus/resources/video.xml'
 
-"""
-    SECTION 5:
-    Add our custom functions in here, it's VERY important these go in this section
-    as the code in section 6 relies on these functions. If that code tries to run
-    before these functions are declared the add-on will fail.
-
-    You'll notice each function in here has a decorator above it (an @route() line of code),
-    this assigns a mode to the function so it can be called with Add_Dir and it also tells
-    the code what paramaters to send through. For example you'll notice the Start() function
-    we've assigned to the mode "start" - this means if we ever want to get Add_Dir to open that
-    function we just use the mode "start". This particular function does not require any extra
-    params to be sent through but if you look at the Simple_Dialog() function you'll see we send through
-    2 different paramaters (title and msg). If you look at the commented out section (lines 105-109)
-    you'll see we send these params through as a dictionary. Using that same format you can send through
-    as many different params as you wish.
-"""
-
 #----------------------------------------------------------------
 @route(mode='start')
 def Start():
