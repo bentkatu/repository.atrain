@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.tempus" name="Tempus" version="1.0.1" provider-name="ad">
+<addon id="plugin.video.tempus" name="Tempus" version="2.0.0" provider-name="ad">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />
@@ -10,8 +10,8 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Tempore fabulas </summary>
-		<description lang="en">Movies and TV shows for each season. Please contact developer via GitHub for seasonal movie, tv, or genre requests.</description>
+		<summary lang="en">Tempore gratiae impulsibus parendi</summary>
+		<description lang="en">Seasonal inspriations including recipes, decorations, and activities. The developer does not own any of this content as all content is readily available online. The developer is in no way affiliated with Kodi.</description>
 		<platform>all</platform>
 		<forum>http://www.noobsandnerds.com/support</forum>
 		<website>www.noobsandnerds.com</website>
