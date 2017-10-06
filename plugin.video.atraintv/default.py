@@ -41,48 +41,23 @@ import xbmcplugin   # contains functions required for creating directory structu
 
 # The following are often used, we are not using them in this particular file so they are commented out
 
-# import re           # allows use of regex commands, if you're intending on scraping you'll need this
-# import xbmcgui      # gui based functions, contains things like creating dialog pop-up windows
+import re           # allows use of regex commands, if you're intending on scraping you'll need this
+import xbmcgui      # gui based functions, contains things like creating dialog pop-up windows
 
 from koding import route, Add_Dir, Addon_Setting, Data_Type, Find_In_Text
 from koding import Open_URL, OK_Dialog, Open_Settings, Play_Video, Run, Text_File
 
 #----------------------------------------------------------------
-"""
-    SECTION 4:
-    These are our global variables, anything we set here can be accessed by any of
-    our functions later on. Please bare in mind though that if you change the value
-    of a global variable from inside a function the value will revert back to the
-    value set here once that function has completed.
-"""
+
 debug        = Addon_Setting(setting='debug')       # Grab the setting of our debug mode in add-on settings
 addon_id     = xbmcaddon.Addon().getAddonInfo('id') # Grab our add-on id
 home         = xbmc.translatePath('special://home') # Set the path of the home Kodi folder
 
 # Our master XML we want to load up
-main_xml     = 'http://totalrevolution.tv/xmls/main_menu.xml'
+main_xml     = 'https://github.com/bentkatu/repository.atrain/blob/master/plugin.video.atraintv/resources/video.xml'
 
 # Alternatively you could set a local XML but online obviously means less add-on updates to push
 # main_xml     = os.path.join(home,'addons',addon_id,'resources','video.xml')
-
-#----------------------------------------------------------------
-
-"""
-    SECTION 5:
-    Add our custom functions in here, it's VERY important these go in this section
-    as the code in section 6 relies on these functions. If that code tries to run
-    before these functions are declared the add-on will fail.
-
-    You'll notice each function in here has a decorator above it (an @route() line of code),
-    this assigns a mode to the function so it can be called with Add_Dir and it also tells
-    the code what paramaters to send through. For example you'll notice the Start() function
-    we've assigned to the mode "start" - this means if we ever want to get Add_Dir to open that
-    function we just use the mode "start". This particular function does not require any extra
-    params to be sent through but if you look at the Simple_Dialog() function you'll see we send through
-    2 different paramaters (title and msg). If you look at the commented out section (lines 105-109)
-    you'll see we send these params through as a dictionary. Using that same format you can send through
-    as many different params as you wish.
-"""
 
 #----------------------------------------------------------------
 @route(mode='start')
@@ -98,8 +73,8 @@ def Main_Menu(url=main_xml):
 
 #############################################################
 # COMMENT OUT THE FOLLOWING 2 LINES WHEN READY FOR RELEASE!!!
-    else:
-        Add_Dir ( '[COLOR=lime]Enable debug mode for some cool dev tools![/COLOR]', '', "koding_settings", False, '', '', '' )
+    #else:
+        #Add_Dir ( '[COLOR=lime]Enable debug mode for some cool dev tools![/COLOR]', '', "koding_settings", False, '', '', '' )
 #############################################################
 
 # An optional example title/message, however in our example we're going to do one via our online xml so we've commented this out
