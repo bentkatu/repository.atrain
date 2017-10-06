@@ -73,8 +73,8 @@ def Main_Menu(url=main_xml):
 
 #############################################################
 # COMMENT OUT THE FOLLOWING 2 LINES WHEN READY FOR RELEASE!!!
-    #else:
-        #Add_Dir ( '[COLOR=lime]Enable debug mode for some cool dev tools![/COLOR]', '', "koding_settings", False, '', '', '' )
+#else:
+#Add_Dir ( '[COLOR=lime]Enable debug mode for some cool dev tools![/COLOR]', '', "koding_settings", False, '', '', '' )
 #############################################################
 
 # An optional example title/message, however in our example we're going to do one via our online xml so we've commented this out
