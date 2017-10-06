@@ -71,6 +71,8 @@ http://sekoiptv.ddns.net:8080/live/sVStIOVQm4/iBVY38254i/526.ts
 http://sekoiptv.ddns.net:8080/live/sVStIOVQm4/iBVY38254i/510.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Velocity US" tvg-logo="" group-title="United States",Discovery Velocity US
 http://sekoiptv.ddns.net:8080/live/sVStIOVQm4/iBVY38254i/527.ts
+#EXTINF:-1,ESPN U HD [USA]
+http://server.poweriptv.cl:25461/live/seba1/seba1/1131.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 US" tvg-logo="" group-title="United States",ESPN 1 US
 http://sekoiptv.ddns.net:8080/live/sVStIOVQm4/iBVY38254i/552.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 US" tvg-logo="" group-title="United States",ESPN 2 US
