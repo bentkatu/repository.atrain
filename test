@@ -1,140 +1,251 @@
 #EXTM3U
- 
- 
-#EXTINF:-1,[COLOR red][B][UPPERCASE]Powered by monstar haha[/UPPERCASE][/B][/COLOR]
-www.facebook.com
-#EXTINF:-1,[COLOR red][UPPERCASE]Last Update 29/01/15 [/UPPERCASE][/COLOR]
-www.facebook.com
- 
-#EXTINF:0,Arenasport 1
-http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
- 
-#EXTINF:0,Arenasport 2
-http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
- 
-#EXTINF:0,Arenasport 3
-http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
- 
-#EXTINF:0,Arenasport 4
-http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
- 
-#EXTINF:0,Arenasport 5
-http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
- 
-#EXTINF:-1 tvg-logo="Bein Sports 1 eng.png,Bein Sports 1 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_1
- 
-#EXTINF:-1 tvg-logo="Bein Sports 2 .png,Bein Sports 2 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_2
- 
-#EXTINF:-1 tvg-logo="Bein Sports 3.png,Bein Sports 3 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_3
- 
-#EXTINF:-1 tvg-logo="Bein Sports 4.png,Bein Sports 4 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_4
- 
-#EXTINF:-1 tvg-logo="Bein Sports 5.png,Bein Sports 5 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_5
- 
-#EXTINF:-1tvg-logo="Bein Sports 6.png,Bein Sports 6 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_6
- 
-#EXTINF:-1 tvg-logo="Bein Sports 7 eng.png,Bein Sports 7 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_7
- 
-#EXTINF:-1 tvg-logo="Bein Sports8.png,Bein Sports 8 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_8
- 
-#EXTINF:-1 tvg-logo="Bein Sports 9.png,Bein Sports 9 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_9
- 
-#EXTINF:-1 tvg-logo="Bein Sports10.,Bein Sports 10 HD
-rtmp://medias.streaming-hub.com:1936/live/bein_sport_10
- 
- 
- 
- 
- 
- 
-#EXTINF:-1,sky sport 1
-http://37.157.245.82:1935/tv/skysp1.stream/playlist.m3u8
- 
-#EXTINF:-1,sky sport 2
-http://37.157.245.82:1935/tv/skysp2.stream/playlist.m3u8
- 
-#EXTINF:-1,sky sport 3
-http://37.157.245.82:1935/tv/skysp3.stream/playlist.m3u8
- 
-#EXTINF:-1,sky sports 4
-http://37.157.245.82:1935/tv/skysp4.stream/playlist.m3u8
- 
-#EXTINF:-1,sky sport 5
-http://37.157.245.82:1935/tv/skysp5.stream/playlist.m3u8
- 
-#EXTINF:-1,sky sport f1
-http://37.157.245.82:1935/tv/skyspf1.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="Sky Sport News.png,Sky Sport News
-rtmp://46.246.29.130:1935/stream playpath=1KnYJyfnK5.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php  timeout=10
- 
-#EXTINF:-1,btsports1 hd
-http://167.114.41.220:8080/btsp1/btsp1/index.m3u8
- 
-#EXTINF:0,BT SPORT 2
-rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sbt2&vw=650&vh=470&domain=cricbox.tv token=Fo5_n0w?U.rA6l3-70w47ch playpath=sbt2
- 
- 
-#EXTINF:0,sky sport 1
-http://178.33.24.14:5000/skyy1
-#EXTINF:0,sky sport 5
-http://178.33.24.14:5002/skyy5
- 
-#EXTINF:0,mutv
-http://37.157.245.82:1935/tv/mutv.stream/playlist.m3u8
- 
- 
-#EXTINF:0,chelsea tv
-http://37.157.245.82:1935/tv/chelseatv.stream/playlist.m3u8
- 
-#EXTINF:0,FOX SPORTS 1
-http://ukstream.myftp.org:1935/edge1/foxsports1.stream/playlist.m3u8
-#EXTINF:0,FOX SPORTS 2
-http://ukstream.myftp.org:1935/edge1/foxsports2.stream/playlist.m3u8
-#EXTINF:0,ARENA 1
-http://109.200.1.82:1935/edge1/arena1.stream/playlist.m3u8
-#EXTINF:0,ARENA 2
-http://109.200.1.82:1935/edge1/arena2.stream/playlist.m3u8
-#EXTINF:0,ARENA 3
-http://109.200.1.82:1935/edge1/arena3.stream/playlist.m3u
-#EXTINF:0,ARENA 4
-http://109.200.1.82:1935/edge1/arena4.stream/playlist.m3u8
-#EXTINF:0,NBCSN EX1
-http://37.157.245.82:1935/tv/extratime1.stream/playlist.m3u8
-#EXTINF:0,NBCSN EX2
-http://37.157.245.82:1935/tv/extratime2.stream/playlist.m3u8
-#EXTINF:0,NBCSN EX3
-http://37.157.245.82:1935/tv/extratime3.stream/playlist.m3u8
-#EXTINF:0,NBCSN EX4
-http://37.157.245.82:1935/tv/extratime4.stream/playlist.m3u8
-#EXTINF:0,NBCSN EX5
-http://37.157.245.82:1935/tv/extratime5.stream/playlist.m3u8
-#EXTINF:0,SPORTSNET 1
-http://37.157.245.82:1935/tv/sportsnet1.stream/playlist.m3u8
-#EXTINF:0,NBCSN
-http://37.157.245.82:1935/tv/nbc.stream/playlist.m3u8
-#EXTINF:0,SPORTSNET WEST
-http://37.157.245.82:1935/tv/sportsnetW.stream/playlist.m3u8
-#EXTINF:0,SPORTSNET O
-http://37.157.245.82:1935/tv/sportsnetO.stream/playlist.m3u8
-#EXTINF:0,TSN 1
-http://37.157.245.82:1935/tv/tsn1.stream/playlist.m3u8
-#EXTINF:0,TSN 2
-http://37.157.245.82:1935/tv/tsn2.stream/playlist.m3u8
- 
-http://37.157.245.82:1935/tv/amchd.stream/playlist.m3u8
- 
-#EXTINF:-1,boxnation
-http://167.114.41.220:8080/boxnation/boxnationnn/index.m3u8
- 
-#EXTINF:-1,SETANTA SPORTS
-http://202.75.23.36/live/ch44/03.m3u8
+#EXTINF:-1,|US| 5 Star Max
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/264.ts
+#EXTINF:-1,|US| A&E
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/338.ts
+#EXTINF:-1,|US| ABC
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/328.ts
+#EXTINF:-1,|US| ABC News
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/339.ts
+#EXTINF:-1,|US| Action Max HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/296.ts
+#EXTINF:-1,|US| AMC HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/295.ts
+#EXTINF:-1,|US| Animal Planet
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/329.ts
+#EXTINF:-1,|US| Bein Sports
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/294.ts
+#EXTINF:-1,|US| Cartoon Network
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/331.ts
+#EXTINF:-1,|US| CBS HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/307.ts
+#EXTINF:-1,|US| CBS Sports Network HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/316.ts
+#EXTINF:-1,|US| CNN HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/306.ts
+#EXTINF:-1,|US| Comedy Central
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/305.ts
+#EXTINF:-1,|US| CW HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/332.ts
+#EXTINF:-1,|US| Discovery HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/292.ts
+#EXTINF:-1,|US| Discovery Science HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/333.ts
+#EXTINF:-1,|US| E!
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/334.ts
+#EXTINF:-1,|US| ESPN 2 HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/322.ts
+#EXTINF:-1,|US| ESPN Deportes
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/340.ts
+#EXTINF:-1,|US| ESPN News HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/324.ts
+#EXTINF:-1,|US| ESPN U HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/321.ts
+#EXTINF:-1,|US| ESPN USA HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/323.ts
+#EXTINF:-1,|US| Fight Network
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/265.ts
+#EXTINF:-1,|US| Fox HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/304.ts
+#EXTINF:-1,|US| Fox News HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/291.ts
+#EXTINF:-1,|US| Fox Sports 1 HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/320.ts
+#EXTINF:-1,|US| Fox Sports 2 HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/319.ts
+#EXTINF:-1,|US| Fox Sports West
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/278.ts
+#EXTINF:-1,|US| FX
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/290.ts
+#EXTINF:-1,|US| FXX
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/289.ts
+#EXTINF:-1,|US| Golf HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/315.ts
+#EXTINF:-1,|US| HBO
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/285.ts
+#EXTINF:-1,|US| HBO Comedy
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/288.ts
+#EXTINF:-1,|US| HBO Signature
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/287.ts
+#EXTINF:-1,|US| HBO Zone
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/286.ts
+#EXTINF:-1,|US| HGTV
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/344.ts
+#EXTINF:-1,|US| History
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/284.ts
+#EXTINF:-1,|US| Investigation Discovery HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/283.ts
+#EXTINF:-1,|US| MLB Network HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/275.ts
+#EXTINF:-1,|US| MoreMax HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/282.ts
+#EXTINF:-1,|US| National Geographic
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/325.ts
+#EXTINF:-1,|US| NBA HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/318.ts
+#EXTINF:-1,|US| NBC
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/303.ts
+#EXTINF:-1,|US| NBC Sports Network HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/314.ts
+#EXTINF:-1,|US| NFL Channel HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/317.ts
+#EXTINF:-1,|US| NHL Network HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/313.ts
+#EXTINF:-1,|US| Nickelodeon
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/335.ts
+#EXTINF:-1,|US| PAC-12 Arizona HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/274.ts
+#EXTINF:-1,|US| PAC-12 Bay Area HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/273.ts
+#EXTINF:-1,|US| PAC-12 Los Angeles HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/272.ts
+#EXTINF:-1,|US| PAC-12 Mountain HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/271.ts
+#EXTINF:-1,|US| PAC-12 Oregon HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/270.ts
+#EXTINF:-1,|US| PAC-12 Washington HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/269.ts
+#EXTINF:-1,|US| Showtime
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/280.ts
+#EXTINF:-1,|US| Spike HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/281.ts
+#EXTINF:-1,|US| Sports Net 360 HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/310.ts
+#EXTINF:-1,|US| Sports Net One HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/302.ts
+#EXTINF:-1,|US| Sports Net Ontario HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/309.ts
+#EXTINF:-1,|US| Sports Net Pacific HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/268.ts
+#EXTINF:-1,|US| Sports Net West HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/267.ts
+#EXTINF:-1,|US| Sports Net World HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/308.ts
+#EXTINF:-1,|US| Starz Cinema HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/279.ts
+#EXTINF:-1,|US| Starz HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/277.ts
+#EXTINF:-1,|US| Syfy HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/336.ts
+#EXTINF:-1,|US| TBS HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/326.ts
+#EXTINF:-1,|US| Tennis Channel HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/312.ts
+#EXTINF:-1,|US| TLC HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/341.ts
+#EXTINF:-1,|US| TNT HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/327.ts
+#EXTINF:-1,|US| TSN 1 HD-CA
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/301.ts
+#EXTINF:-1,|US| TSN 2 HD-CA
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/300.ts
+#EXTINF:-1,|US| TSN 3 HD-CA
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/299.ts
+#EXTINF:-1,|US| TSN 4 HD-CA
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/298.ts
+#EXTINF:-1,|US| TSN 5 HD-CA
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/297.ts
+#EXTINF:-1,|US| Univision Deportes
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/342.ts
+#EXTINF:-1,|US| USA Network
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/276.ts
+#EXTINF:-1,|US| Viceland
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/343.ts
+#EXTINF:-1,|US| WWE Network HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/311.ts
+#EXTINF:-1,|PT| Abola TV
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1022.ts
+#EXTINF:-1,|PT| AMC
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1069.ts
+#EXTINF:-1,|PT| AXN
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1067.ts
+#EXTINF:-1,|PT| AXN Black
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1068.ts
+#EXTINF:-1,|PT| AXN White
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1066.ts
+#EXTINF:-1,|PT| BTV 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1065.ts
+#EXTINF:-1,|PT| Canal Cine Mundo
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1064.ts
+#EXTINF:-1,|PT| Cancao Nova
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1063.ts
+#EXTINF:-1,|PT| Cartoon Network
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1030.ts
+#EXTINF:-1,|PT| Disney Channel
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1029.ts
+#EXTINF:-1,|PT| Euro Sport 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1062.ts
+#EXTINF:-1,|PT| Euro Sport 2
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1061.ts
+#EXTINF:-1,|PT| FOX
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1060.ts
+#EXTINF:-1,|PT| FOX Comedy
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1059.ts
+#EXTINF:-1,|PT| FOX Crime
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1058.ts
+#EXTINF:-1,|PT| FOX Life
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1057.ts
+#EXTINF:-1,|PT| FOX Movies
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1056.ts
+#EXTINF:-1,|PT| FOX News
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1055.ts
+#EXTINF:-1,|PT| Globo
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1054.ts
+#EXTINF:-1,|PT| Hollywood
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1053.ts
+#EXTINF:-1,|PT| Motors TV
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1028.ts
+#EXTINF:-1,|PT| MTV Portugal
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1027.ts
+#EXTINF:-1,|PT| Nat Geo Wild
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1052.ts
+#EXTINF:-1,|PT| National Geographic
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1051.ts
+#EXTINF:-1,|PT| Record News
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1050.ts
+#EXTINF:-1,|PT| RTP 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1049.ts
+#EXTINF:-1,|PT| RTP 2
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1048.ts
+#EXTINF:-1,|PT| RTP 3
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1047.ts
+#EXTINF:-1,|PT| RTP Acores
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1026.ts
+#EXTINF:-1,|PT| RTP Madeira
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1025.ts
+#EXTINF:-1,|PT| SIC
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1046.ts
+#EXTINF:-1,|PT| SIC Kids
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1045.ts
+#EXTINF:-1,|PT| Sic Noticias
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1024.ts
+#EXTINF:-1,|PT| Sport TV
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1044.ts
+#EXTINF:-1,|PT| Sport TV 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1043.ts
+#EXTINF:-1,|PT| Sport TV 2
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1042.ts
+#EXTINF:-1,|PT| Sport TV 3
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1041.ts
+#EXTINF:-1,|PT| Sport TV 4
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1040.ts
+#EXTINF:-1,|PT| Sport TV 5
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1039.ts
+#EXTINF:-1,|PT| SYFY
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1038.ts
+#EXTINF:-1,|PT| TV Cine 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1037.ts
+#EXTINF:-1,|PT| TV Cine 2
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1036.ts
+#EXTINF:-1,|PT| TV Cine 3
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1035.ts
+#EXTINF:-1,|PT| TV Cine 4
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1034.ts
+#EXTINF:-1,|PT| TV Record
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1033.ts
+#EXTINF:-1,|PT| TV Serie
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1023.ts
+#EXTINF:-1,|PT| TVI 24
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1032.ts
+#EXTINF:-1,|PT| TVI Ficcao
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1031.ts
