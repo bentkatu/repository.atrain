@@ -1,22 +1,14 @@
 #EXTM3U
 #EXTINF:-1,ESPN
 http://server.poweriptv.cl:25461/live/asd123/asd123/41.ts
-#EXTINF:-1,ESPN +
-http://server.poweriptv.cl:25461/live/asd123/asd123/1144.ts
 #EXTINF:-1,ESPN 2
 http://server.poweriptv.cl:25461/live/asd123/asd123/42.ts
 #EXTINF:-1,ESPN 3
 http://server.poweriptv.cl:25461/live/asd123/asd123/43.ts
-#EXTINF:-1,ESPN HD
-http://server.poweriptv.cl:25461/live/asd123/asd123/1175.ts
 #EXTINF:-1,ESPN 2 HD
 http://server.poweriptv.cl:25461/live/asd123/asd123/1174.ts
 #EXTINF:-1,ESPN 3 HD
 http://server.poweriptv.cl:25461/live/asd123/asd123/1173.ts
-#EXTINF:-1,ESPN [BR]
-http://server.poweriptv.cl:25461/live/asd123/asd123/1137.ts
-#EXTINF:-1,ESPN BRASIL [BR]
-http://server.poweriptv.cl:25461/live/asd123/asd123/1135.ts
 #EXTINF:-1,ESPN [USA]
 http://server.poweriptv.cl:25461/live/asd123/asd123/1134.ts
 #EXTINF:-1,ESPN HD [USA]
@@ -31,16 +23,6 @@ http://server.poweriptv.cl:25461/live/asd123/asd123/1178.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/57.ts
 #EXTINF:-1,Fox Sports 2 [MX]
 http://server.poweriptv.cl:25461/live/asd123/asd123/58.ts
-#EXTINF:-1,Fox Sports Chile
-http://server.poweriptv.cl:25461/live/asd123/asd123/479.ts
-#EXTINF:-1,Fox Sports HD [Chile]
-http://server.poweriptv.cl:25461/live/asd123/asd123/476.ts
-#EXTINF:-1,Fox Sports 1 HD [Chile]
-http://server.poweriptv.cl:25461/live/asd123/asd123/474.ts
-#EXTINF:-1,Fox Sports 2 HD [Chile]
-http://server.poweriptv.cl:25461/live/asd123/asd123/473.ts
-#EXTINF:-1,Fox Sports 3 HD [Chile]
-http://server.poweriptv.cl:25461/live/asd123/asd123/475.ts
 #EXTINF:-1,AR: FOX SPORTS 1 SUR
 http://server.poweriptv.cl:25461/live/asd123/asd123/1364.ts
 #EXTINF:-1,AR: FOX SPORTS 2 SUR *
