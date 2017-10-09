@@ -16,8 +16,6 @@ http://server.poweriptv.cl:25461/live/asd123/asd123/702.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/704.ts
 #EXTINF:-1,USA : HBO Comedy
 http://server.poweriptv.cl:25461/live/asd123/asd123/700.ts
-#EXTINF:-1,USA: NFL Network
-http://server.poweriptv.cl:25461/live/asd123/asd123/419.ts
 #EXTINF:-1,USA : NFL Network 1080i
 http://server.poweriptv.cl:25461/live/asd123/asd123/1401.ts
 #EXTINF:-1,USA  NFL Network HD
