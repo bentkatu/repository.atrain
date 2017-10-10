@@ -895,4 +895,8 @@ http://173.212.226.236:8888/live/albaniaiptv.net/freedailyiptv/12.ts
 http://173.212.226.236:8888/live/albaniaiptv.net/freedailyiptv/11.ts
 #EXTINF:0,NFL Now Live
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
+#EXTINF:0,Olympics Channel
+https://live.olympicchannel.com/ocs/channel05b/master.m3u8
+#EXTINF:0,Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
