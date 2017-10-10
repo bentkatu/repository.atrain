@@ -74,27 +74,27 @@ def Main_Menu():
         icon="http://3.bp.blogspot.com/-IAstm1oZdl0/UFEGC9J1n9I/AAAAAAAACHY/0TqXd3rsW4U/s1600/Funny-Jack-O-Halloween-Wallpapers.jpg")
 
     Add_Dir( 
-        name="[COLORgoldenrod]Thanksgiving Food Recipes[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_10+"/", folder=True,
+        name="[COLORsaddlebrown]Thanksgiving Food Recipes[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_10+"/", folder=True,
         icon="https://cbsla.files.wordpress.com/2015/11/o12.jpg")
 
     Add_Dir( 
-        name="[COLORgoldenrod]Thanksgiving Drink Recipes[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_11+"/", folder=True,
+        name="[COLORsaddlebrown]Thanksgiving Drink Recipes[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_11+"/", folder=True,
         icon="http://clv.h-cdn.co/assets/15/42/640x351/gallery-1444835809-thanksgiving-drinks-1115-1.jpg")
 
     Add_Dir( 
-        name="[COLORgoldenrod]Thanksgiving Decorations[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_12+"/", folder=True,
+        name="[COLORsaddlebrown]Thanksgiving Decorations[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_12+"/", folder=True,
         icon="http://clv.h-cdn.co/assets/cm/15/08/54eaa9c4db4f9_-_thanksgiving-table-7-de.jpg")
 
     Add_Dir( 
-        name="[COLORgoldenrod]Thanksgiving Games[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_13+"/", folder=True,
+        name="[COLORsaddlebrown]Thanksgiving Games[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_13+"/", folder=True,
         icon="https://i.ytimg.com/vi/wAsV8dSzKJU/maxresdefault.jpg")
 
     Add_Dir( 
-        name="[COLORgoldenrod]Thanksgiving Music[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_14+"/", folder=True,
+        name="[COLORsaddlebrown]Thanksgiving Music[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_14+"/", folder=True,
         icon="http://4.bp.blogspot.com/-6F_nKdSPG_s/UnT_4sMK_YI/AAAAAAAAIOo/Q2nQ0qtcJEA/s500/Thanksgiving+playlist.jpg")
 
     Add_Dir( 
-        name="[COLORgoldenrod]Thanksgiving Funny Videos[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_15+"/", folder=True,
+        name="[COLORsaddlebrown]Thanksgiving Funny Videos[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_15+"/", folder=True,
         icon="https://i.imgur.com/Q7qDQKG.png")
         
 @route(mode='koding_settings')
