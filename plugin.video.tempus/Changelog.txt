@@ -5,3 +5,6 @@ Tempus updated v.1.0.1
 
 Tempus updated V.2.0.0
 Revamped
+
+Tempus updated V.2.0.1
+Added Thanksgiving
