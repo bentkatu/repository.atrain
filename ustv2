@@ -1142,5 +1142,6 @@ http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playli
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
 #EXTINF:-1,Mello TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
-
+#EXTINF:-1 group-title="1-USA",Weather Channel US
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
