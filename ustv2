@@ -999,4 +999,35 @@ https://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0,VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
+#EXTINF:0,Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:0,Nature Vision
+http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
+#EXTINF:0,Pursuit Channel
+http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
+#EXTINF:0,TACH
+http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
+#EXTINF:0,PBS Kids
+http://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:0,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0,Christian Hip Hop Television
+http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
+#EXTINF:0,Family Friendly Entertainment
+http://54.225.64.228:1935/live/roku2/playlist.m3u8
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0,KHZTV
+http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
+#EXTINF:0,RadioU TV
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv1/playlist.m3u8
+#EXTINF:0,Rap Resurrection
+http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8
+#EXTINF:0,Spirit Television
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit1/playlist.m3u8
+
 
