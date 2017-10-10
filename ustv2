@@ -1140,6 +1140,7 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 #EXTINF:-1,D23 TV
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-
+#EXTINF:-1,Mello TV
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
 
 
