@@ -998,7 +998,6 @@ http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 https://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0,VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
 #EXTINF:0,Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:0,Nature Vision
