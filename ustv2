@@ -893,4 +893,6 @@ http://173.212.226.236:8888/live/albaniaiptv.net/freedailyiptv/13.ts
 http://173.212.226.236:8888/live/albaniaiptv.net/freedailyiptv/12.ts
 #EXTINF:-1,BT Sport 1
 http://173.212.226.236:8888/live/albaniaiptv.net/freedailyiptv/11.ts
+#EXTINF:0,NFL Now Live
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
 
