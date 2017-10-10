@@ -1041,4 +1041,106 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:0,NRB Network
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1,CDO Basico
+http://server.poweriptv.cl:25461/live/asd123/asd123/445.ts
+#EXTINF:-1,CDO Premium
+http://server.poweriptv.cl:25461/live/asd123/asd123/1424.ts
+#EXTINF:-1,CDF HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/863.ts
+#EXTINF:-1,ESPN
+http://server.poweriptv.cl:25461/live/asd123/asd123/41.ts
+#EXTINF:-1,ESPN 2
+http://server.poweriptv.cl:25461/live/asd123/asd123/42.ts
+#EXTINF:-1,ESPN 3
+http://server.poweriptv.cl:25461/live/asd123/asd123/43.ts
+#EXTINF:-1,ESPN [BR]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1137.ts
+#EXTINF:-1,ESPN BRASIL [BR]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1135.ts
+#EXTINF:-1,ESPN [USA]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1134.ts
+#EXTINF:-1,ESPN HD [USA]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1133.ts
+#EXTINF:-1,ESPN News HD [USA]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1132.ts
+#EXTINF:-1,ESPN U HD [USA]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1131.ts
+#EXTINF:-1,Fox Sports [MX]
+http://server.poweriptv.cl:25461/live/asd123/asd123/57.ts
+#EXTINF:-1,Fox Sports 2 [MX]
+http://server.poweriptv.cl:25461/live/asd123/asd123/58.ts
+#EXTINF:-1,Fox Sports Chile
+http://server.poweriptv.cl:25461/live/asd123/asd123/479.ts
+#EXTINF:-1,Fox Sports HD [Chile]
+http://server.poweriptv.cl:25461/live/asd123/asd123/476.ts
+#EXTINF:-1,Fox Sports 1 HD [Chile]
+http://server.poweriptv.cl:25461/live/asd123/asd123/474.ts
+#EXTINF:-1,Fox Sports 2 HD [Chile]
+http://server.poweriptv.cl:25461/live/asd123/asd123/473.ts
+#EXTINF:-1,Fox Sports 3 HD [Chile]
+http://server.poweriptv.cl:25461/live/asd123/asd123/475.ts
+#EXTINF:-1,AR: FOX SPORTS 1 SUR
+http://server.poweriptv.cl:25461/live/asd123/asd123/1364.ts
+#EXTINF:-1,AR: FOX SPORTS 2 SUR  *
+http://server.poweriptv.cl:25461/live/asd123/asd123/1363.ts
+#EXTINF:-1,FOX Sports 1 [BR]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1140.ts
+#EXTINF:-1,Fox Sports 2 [BR]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1141.ts
+#EXTINF:-1,Fox Sports 1 HD [USA]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1114.ts
+#EXTINF:-1,Directv Sports
+http://server.poweriptv.cl:25461/live/asd123/asd123/465.ts
+#EXTINF:-1,Directv Sport + HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/1369.ts
+#EXTINF:-1,Bein Sport HD [ES]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1155.ts
+#EXTINF:-1,Bein LaLiga
+http://server.poweriptv.cl:25461/live/asd123/asd123/1181.ts
+#EXTINF:-1,Bein Sports HD [USA]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1154.ts
+#EXTINF:-1,beIN LA Liga FHD [ES]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1388.ts
+#EXTINF:-1,Bein Liga HD [ES]
+http://server.poweriptv.cl:25461/live/asd123/asd123/1385.ts
+#EXTINF:-1,ES: Bein Sport HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/1386.ts
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:-1,D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+
+
 
