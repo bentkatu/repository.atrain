@@ -988,6 +988,15 @@ https://secure-streams.akamaized.net/rt-usa/index.m3u8
 http://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
 #EXTINF:0,WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
+#EXTINF:0,ABC News Channel
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+#EXTINF:0,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0,CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:0,CGTN English
+https://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 
