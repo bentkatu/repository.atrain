@@ -54,7 +54,7 @@ def Main_Menu():
         icon="http://girlshue.com/wp-content/uploads/2013/08/Unique-Scary-Halloween-Costume-Ideas-For-Couples-2013-2014-1.jpg")
     
     Add_Dir( 
-        name="COLORorange]Halloween Makeup Ideas[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_5+"/", folder=True,
+        name="[COLORorange]Halloween Makeup Ideas[/COLOR]", url=BASE+YOUTUBE_CHANNEL_ID_5+"/", folder=True,
         icon="http://3.bp.blogspot.com/-AvlYcP8o-lo/UlN9ffiQaHI/AAAAAAAAIV4/iYvmBxHifzs/s1600/4376e8224f78d6501a6395ac0308d69d.jpg")
 
     Add_Dir( 
