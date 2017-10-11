@@ -904,8 +904,6 @@ http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
 http://abclive.abcnews.com/i/abc_live2@136328/master.m3u8
 #EXTINF:0 tvg-id="ABCN3",ABC News Digital 3
 http://abclive.abcnews.com/i/abc_live3@136329/master.m3u8
-#EXTINF:0 tvg-id="ABCN4",ABC News Digital 4
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:0 tvg-id="ABCN5",ABC News Digital 5
 http://abclive.abcnews.com/i/abc_live5@136331/master.m3u8
 #EXTINF:0,C-SPAN Live Event
@@ -1104,8 +1102,6 @@ http://server.poweriptv.cl:25461/live/asd123/asd123/1388.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/1385.ts
 #EXTINF:-1,ES: Bein Sport HD
 http://server.poweriptv.cl:25461/live/asd123/asd123/1386.ts
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,MSNBC (HD)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1,MSNBC (SD)
