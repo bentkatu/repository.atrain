@@ -974,8 +974,6 @@ http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:0,CBSN
 http://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:0,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:0,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0,RT America
