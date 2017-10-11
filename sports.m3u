@@ -1,0 +1,20 @@
+#EXTM3U
+re123/10396.ts
+#EXTINF:-1,USA:MLB Network HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/1372.ts
+#EXTINF:-1,USA:NFL Channel HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/1371.ts
+#EXTINF:-1,USA  NFL Network HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/1411.ts
+#EXTINF:-1,USA: NFL Network 1
+http://server.poweriptv.cl:25461/live/asd123/asd123/1389.ts
+#EXTINF:-1,USA : NFL Network 1080i
+http://server.poweriptv.cl:25461/live/asd123/asd123/1401.ts
+#EXTINF:-1,USA: TSN1
+http://server.poweriptv.cl:25461/live/asd123/asd123/425.ts
+#EXTINF:-1,USA: TSN4
+http://server.poweriptv.cl:25461/live/asd123/asd123/423.ts
+#EXTINF:-1,USA: TSN5
+http://server.poweriptv.cl:25461/live/asd123/asd123/422.ts
+#EXTINF:-1,USA: WWE Network
+http://server.poweriptv.cl:25461/live/asd123/asd123/797.ts
