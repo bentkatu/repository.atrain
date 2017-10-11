@@ -4,6 +4,8 @@ re123/10396.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/437.ts
 #EXTINF:-1,USA: ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,USA: AFN NEWS
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20695.ts
 #EXTINF:-1,USA: Biz TV
 http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 #EXTINF:-1,USA: Bloomberg TV
