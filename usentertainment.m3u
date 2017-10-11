@@ -1,0 +1,12 @@
+#EXTM3U
+re123/10396.ts
+#EXTINF:-1,USA : HBO East
+http://server.poweriptv.cl:25461/live/asd123/asd123/701.ts
+#EXTINF:-1,USA : HBO HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/702.ts
+#EXTINF:-1,USA : HBO Zone
+http://server.poweriptv.cl:25461/live/asd123/asd123/704.ts
+#EXTINF:-1,USA : HBO Comedy
+http://server.poweriptv.cl:25461/live/asd123/asd123/700.ts
+#EXTINF:-1,USA: TBS
+http://server.poweriptv.cl:25461/live/asd123/asd123/426.ts
