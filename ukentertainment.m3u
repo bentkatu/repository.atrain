@@ -1,2 +1,30 @@
 #EXTM3U
 re123/10396.ts
+#EXTINF:-1,UK: More 4
+http://painel.soeu.kim:8080/live/toniparis/paris/2266.ts
+#EXTINF:-1,UK: Nat. Geo
+http://painel.soeu.kim:8080/live/toniparis/paris/2267.ts
+#EXTINF:-1,UK: Nicktoons
+http://painel.soeu.kim:8080/live/toniparis/paris/2268.ts
+#EXTINF:-1,UK: Sky Living
+http://painel.soeu.kim:8080/live/toniparis/paris/2271.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure
+http://painel.soeu.kim:8080/live/toniparis/paris/2272.ts
+#EXTINF:-1,UK: Sky Movies Atlantic
+http://painel.soeu.kim:8080/live/toniparis/paris/2273.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://painel.soeu.kim:8080/live/toniparis/paris/2274.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+http://painel.soeu.kim:8080/live/toniparis/paris/2275.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://painel.soeu.kim:8080/live/toniparis/paris/2276.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+http://painel.soeu.kim:8080/live/toniparis/paris/2277.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://painel.soeu.kim:8080/live/toniparis/paris/2278.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats
+http://painel.soeu.kim:8080/live/toniparis/paris/2279.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://painel.soeu.kim:8080/live/toniparis/paris/2280.ts
+#EXTINF:-1,UK: Sky Movies Sci-fi & Horror
+http://painel.soeu.kim:8080/live/toniparis/paris/2281.ts
