@@ -1,5 +1,7 @@
 #EXTM3U
 re123/10396.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20701.ts
 #EXTINF:-1,USA: MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,USA: MLB Network*
