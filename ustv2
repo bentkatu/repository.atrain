@@ -974,8 +974,6 @@ http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:0,CBSN
 http://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:0,Fox News Talk
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 #EXTINF:0,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:0,Newsmax TV
@@ -984,8 +982,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:0,Weather Network
 http://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
-#EXTINF:0,WeatherNation TV
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:0,ABC News Channel
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
 #EXTINF:0,CBN News
@@ -1102,24 +1098,6 @@ http://server.poweriptv.cl:25461/live/asd123/asd123/1388.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/1385.ts
 #EXTINF:-1,ES: Bein Sport HD
 http://server.poweriptv.cl:25461/live/asd123/asd123/1386.ts
-#EXTINF:-1,MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1,MSNBC (SD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 #EXTINF:-1,Investigation Discovery
@@ -1138,6 +1116,4 @@ http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playli
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
 #EXTINF:-1,Mello TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
-#EXTINF:-1 group-title="1-USA",Weather Channel US
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
