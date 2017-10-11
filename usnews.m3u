@@ -22,14 +22,22 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://server.poweriptv.cl:25461/live/asd123/asd123/435.ts
 #EXTINF:-1,USA: CNN
 http://server.poweriptv.cl:25461/live/asd123/asd123/433.ts
+#EXTINF:-1,USA: Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1,USA: Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,USA: InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 #EXTINF:-1,USA: MSNBC (SD)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
 #EXTINF:-1,USA: MSNBC (SD)*
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
 #EXTINF:-1,USA: MSNBC (HD)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,USA: RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,USA: The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
 #EXTINF:-1,USA: Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1,USA: Weather Channel
