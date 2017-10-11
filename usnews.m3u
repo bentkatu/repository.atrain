@@ -4,6 +4,8 @@ re123/10396.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/437.ts
 #EXTINF:-1,USA: ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,USA: Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 #EXTINF:-1,USA: Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1,USA: Bloomberg TV*
@@ -34,6 +36,10 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
 #EXTINF:-1,USA: MSNBC (HD)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,USA: NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1,USA: NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 #EXTINF:-1,USA: RT America
 https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:-1,USA: The Blaze
