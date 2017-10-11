@@ -1,5 +1,19 @@
 #EXTM3U
 re123/10396.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20694.ts
+#EXTINF:-1,USA: AFN PRIME ATLANTIC
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20696.ts
+#EXTINF:-1,USA: AFN PRIME PULSE
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20698.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20699.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20704.ts
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20706.ts
+#EXTINF:-1,USA: HALLMARK
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20707.ts
 #EXTINF:-1,USA: HBO East
 http://server.poweriptv.cl:25461/live/asd123/asd123/701.ts
 #EXTINF:-1,USA: HBO HD
@@ -8,6 +22,8 @@ http://server.poweriptv.cl:25461/live/asd123/asd123/702.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/704.ts
 #EXTINF:-1,USA: HBO Comedy
 http://server.poweriptv.cl:25461/live/asd123/asd123/700.ts
+#EXTINF:-1,USA: HISTORY
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20708.ts
 #EXTINF:-1,USA: Hunt Channel
 http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
 #EXTINF:-1,USA: QVC
