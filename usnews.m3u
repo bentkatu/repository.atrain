@@ -1,0 +1,20 @@
+#EXTM3U
+re123/10396.ts
+#EXTINF:-1,USA: ABC News
+http://server.poweriptv.cl:25461/live/asd123/asd123/437.ts
+#EXTINF:-1,USA: ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,USA: CBS
+http://server.poweriptv.cl:25461/live/asd123/asd123/436.ts
+#EXTINF:-1,USA: CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,USA: CBSN
+http://server.poweriptv.cl:25461/live/asd123/asd123/435.ts
+#EXTINF:-1,USA: CNN
+http://server.poweriptv.cl:25461/live/asd123/asd123/433.ts
+#EXTINF:-1,USA: MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,USA: MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,USA: MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
