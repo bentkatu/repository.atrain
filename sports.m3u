@@ -18,6 +18,10 @@ http://server.poweriptv.cl:25461/live/asd123/asd123/1389.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/1401.ts
 #EXTINF:-1,USA: NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,USA: Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,USA: Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
 #EXTINF:-1,USA: TSN1
 http://server.poweriptv.cl:25461/live/asd123/asd123/425.ts
 #EXTINF:-1,USA: TSN4
