@@ -976,8 +976,6 @@ http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0,RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:0,Weather Network
 http://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
 #EXTINF:0,ABC News Channel
@@ -1108,8 +1106,6 @@ http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 #EXTINF:-1,Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 #EXTINF:-1,D23 TV
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
 #EXTINF:-1,Mello TV
