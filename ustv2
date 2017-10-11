@@ -1,43 +1,11 @@
 #EXTM3U
 re123/10396.ts
-#EXTINF:-1,US | AFN NEWS
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20695.ts
-#EXTINF:-1,US | AFN MOVIE
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20694.ts
-#EXTINF:-1,US | AFN PRIME ATLANTIC
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20696.ts
-#EXTINF:-1,US | AFN PRIME PULSE
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20698.ts
-#EXTINF:-1,US | AFN SPECTRUM
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20699.ts
-#EXTINF:-1,US | AFN SPORTS 2
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20701.ts
-#EXTINF:-1,US | CARTOON NETWORK
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20704.ts
-#EXTINF:-1,US | COMEDY CENTRAL
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20706.ts
-#EXTINF:-1,US | HALLMARK
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20707.ts
-#EXTINF:-1,US | HISTORY
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20708.ts
-#EXTINF:-1,---☛ ENGLISH ☚---
-http://painel.soeu.kim:8080/live/toniparis/paris/2293.ts
-#EXTINF:-1,UK: AT RACES
-http://painel.soeu.kim:8080/live/toniparis/paris/2246.ts
-#EXTINF:-1,UK: BBC 1
-http://painel.soeu.kim:8080/live/toniparis/paris/2247.ts
-#EXTINF:-1,UK: BBC 2
-http://painel.soeu.kim:8080/live/toniparis/paris/2248.ts
-#EXTINF:-1,UK: BBC 3
-http://painel.soeu.kim:8080/live/toniparis/paris/2249.ts
-#EXTINF:-1,UK: BT ESPN HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2252.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2253.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2254.ts
-#EXTINF:-1,UK: BT Sport Europe HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2255.ts
+
+
+
+
+
+
 #EXTINF:-1,UK: CBS action
 http://painel.soeu.kim:8080/live/toniparis/paris/2256.ts
 #EXTINF:-1,UK: Boomerang
