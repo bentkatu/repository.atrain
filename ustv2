@@ -1,295 +1,5 @@
 #EXTM3U
 re123/10396.ts
-#EXTINF:-1,USA: TBS
-http://server.poweriptv.cl:25461/live/asd123/asd123/426.ts
-#EXTINF:-1,USA: TSN1
-http://server.poweriptv.cl:25461/live/asd123/asd123/425.ts
-#EXTINF:-1,USA: TSN4
-http://server.poweriptv.cl:25461/live/asd123/asd123/423.ts
-#EXTINF:-1,USA: TSN5
-http://server.poweriptv.cl:25461/live/asd123/asd123/422.ts
-#EXTINF:-1,USA : HBO East
-http://server.poweriptv.cl:25461/live/asd123/asd123/701.ts
-#EXTINF:-1,USA : HBO HD
-http://server.poweriptv.cl:25461/live/asd123/asd123/702.ts
-#EXTINF:-1,USA : HBO Zone
-http://server.poweriptv.cl:25461/live/asd123/asd123/704.ts
-#EXTINF:-1,USA : HBO Comedy
-http://server.poweriptv.cl:25461/live/asd123/asd123/700.ts
-#EXTINF:-1,USA : NFL Network 1080i
-http://server.poweriptv.cl:25461/live/asd123/asd123/1401.ts
-#EXTINF:-1,USA  NFL Network HD
-http://server.poweriptv.cl:25461/live/asd123/asd123/1411.ts
-#EXTINF:-1,USA: NFL Network 1
-http://server.poweriptv.cl:25461/live/asd123/asd123/1389.ts
-#EXTINF:-1,USA:MLB Network HD
-http://server.poweriptv.cl:25461/live/asd123/asd123/1372.ts
-#EXTINF:-1,USA:NFL Channel HD
-http://server.poweriptv.cl:25461/live/asd123/asd123/1371.ts
-#EXTINF:-1,USA: WWE Network
-http://server.poweriptv.cl:25461/live/asd123/asd123/797.ts
-#EXTINF:-1,USA: ABC News
-http://server.poweriptv.cl:25461/live/asd123/asd123/437.ts
-#EXTINF:-1,USA: CBS
-http://server.poweriptv.cl:25461/live/asd123/asd123/436.ts
-#EXTINF:-1,USA: CBSN
-http://server.poweriptv.cl:25461/live/asd123/asd123/435.ts
-#EXTINF:-1,USA: CNN
-http://server.poweriptv.cl:25461/live/asd123/asd123/433.ts
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1,MSNBC (SD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1,MSNBC (SD)*
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
-#EXTINF:-1,Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Bloomberg TV*
-http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
-#EXTINF:-1,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1,The Blaze
-https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
-#EXTINF:-1,InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1,RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:-1,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,MLB Network*
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
-#EXTINF:-1,NBC Golf [NoRoku]
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
-#EXTINF:-1,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,Channel 7 [NoRoku]
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1,Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-#EXTINF:-1,The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1,Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:-1,Hunt Channel
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
-#EXTINF:-1,MeTV
-http://video.metv.com/metv/index.m3u8
-#EXTINF:-1,NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
-#EXTINF:-1,NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
-#EXTINF:-1,SupTV
-http://91.134.238.137/live/alpha/index.m3u8
-#EXTINF:-1,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
-#EXTINF:-1,Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-#EXTINF:-1,iHeart 80s
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-#EXTINF:-1,Lite FM 106.7
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-#EXTINF:-1,Nick Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-#EXTINF:-1,Z100 New York
-http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
-#EXTINF:-1,360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1,ASD TV
-http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
-#EXTINF:-1,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1,ATXN
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
-#EXTINF:-1,ATXN 2
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
-#EXTINF:-1,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1,Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1,Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1,Capital City Connection
-http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1,Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
-#EXTINF:-1,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1,Escambia TV
-http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,The Florida Channel
-http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
-#EXTINF:-1,Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:-1,Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1,House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1,KBVR TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1,Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-#EXTINF:-1,Laurel TV
-https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
-#EXTINF:-1,Miami TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-#EXTINF:-1,Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1,PGCPS
-http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
-#EXTINF:-1,RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,Seattle Channel
-https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
-#EXTINF:-1,Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-#EXTINF:-1,Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1,Temple TV
-http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
-#EXTINF:-1,TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1,TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1,TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1,UCTV
-http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
-#EXTINF:-1,UGA TV
-http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
-#EXTINF:-1,US | AFN NEWS
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20695.ts
-#EXTINF:-1,US | AFN MOVIE
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20694.ts
-#EXTINF:-1,US | AFN PRIME ATLANTIC
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20696.ts
-#EXTINF:-1,US | AFN PRIME PULSE
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20698.ts
-#EXTINF:-1,US | AFN SPECTRUM
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20699.ts
-#EXTINF:-1,US | AFN SPORTS 2
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20701.ts
-#EXTINF:-1,US | CARTOON NETWORK
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20704.ts
-#EXTINF:-1,US | COMEDY CENTRAL
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20706.ts
-#EXTINF:-1,US | HALLMARK
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20707.ts
-#EXTINF:-1,US | HISTORY
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20708.ts
-#EXTINF:-1,---☛ ENGLISH ☚---
-http://painel.soeu.kim:8080/live/toniparis/paris/2293.ts
-#EXTINF:-1,UK: AT RACES
-http://painel.soeu.kim:8080/live/toniparis/paris/2246.ts
-#EXTINF:-1,UK: BBC 1
-http://painel.soeu.kim:8080/live/toniparis/paris/2247.ts
-#EXTINF:-1,UK: BBC 2
-http://painel.soeu.kim:8080/live/toniparis/paris/2248.ts
-#EXTINF:-1,UK: BBC 3
-http://painel.soeu.kim:8080/live/toniparis/paris/2249.ts
-#EXTINF:-1,UK: BT ESPN HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2252.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2253.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2254.ts
-#EXTINF:-1,UK: BT Sport Europe HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2255.ts
-#EXTINF:-1,UK: CBS action
-http://painel.soeu.kim:8080/live/toniparis/paris/2256.ts
-#EXTINF:-1,UK: Boomerang
-http://painel.soeu.kim:8080/live/toniparis/paris/2744.ts
-#EXTINF:-1,UK: ITV3
-http://painel.soeu.kim:8080/live/toniparis/paris/2262.ts
-#EXTINF:-1,UK: ITV4
-http://painel.soeu.kim:8080/live/toniparis/paris/2263.ts
-#EXTINF:-1,UK: Liverpool FC  tv
-http://painel.soeu.kim:8080/live/toniparis/paris/2264.ts
-#EXTINF:-1,UK: Manchester TV
-http://painel.soeu.kim:8080/live/toniparis/paris/2265.ts
-#EXTINF:-1,UK: More 4
-http://painel.soeu.kim:8080/live/toniparis/paris/2266.ts
-#EXTINF:-1,UK: Nat. Geo
-http://painel.soeu.kim:8080/live/toniparis/paris/2267.ts
-#EXTINF:-1,UK: Nicktoons
-http://painel.soeu.kim:8080/live/toniparis/paris/2268.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2269.ts
-#EXTINF:-1,UK: Racing
-http://painel.soeu.kim:8080/live/toniparis/paris/2270.ts
-#EXTINF:-1,UK: Sky living
-http://painel.soeu.kim:8080/live/toniparis/paris/2271.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure
-http://painel.soeu.kim:8080/live/toniparis/paris/2272.ts
-#EXTINF:-1,UK: Sky Movies Atlantic
-http://painel.soeu.kim:8080/live/toniparis/paris/2273.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://painel.soeu.kim:8080/live/toniparis/paris/2274.ts
-#EXTINF:-1,UK: Sky Movies Crime & Thriller
-http://painel.soeu.kim:8080/live/toniparis/paris/2275.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://painel.soeu.kim:8080/live/toniparis/paris/2276.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance
-http://painel.soeu.kim:8080/live/toniparis/paris/2277.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://painel.soeu.kim:8080/live/toniparis/paris/2278.ts
-#EXTINF:-1,UK: Sky Movies Modern Greats
-http://painel.soeu.kim:8080/live/toniparis/paris/2279.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://painel.soeu.kim:8080/live/toniparis/paris/2280.ts
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror
-http://painel.soeu.kim:8080/live/toniparis/paris/2281.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2282.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2283.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2284.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://painel.soeu.kim:8080/live/toniparis/paris/2286.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://painel.soeu.kim:8080/live/toniparis/paris/2287.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://painel.soeu.kim:8080/live/toniparis/paris/2288.ts
 #EXTINF:-1,UK: TLC
 http://painel.soeu.kim:8080/live/toniparis/paris/2289.ts
 #EXTINF:-1,UK: TMC
@@ -606,32 +316,10 @@ http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20397.ts
 http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20390.ts
 #EXTINF:-1,US | HBO SIGNATURE
 http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20389.ts
-#EXTINF:-1,US | AFN NEWS
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20695.ts
-#EXTINF:-1,US | AFN MOVIE
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20694.ts
-#EXTINF:-1,US | AFN PRIME ATLANTIC
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20696.ts
-#EXTINF:-1,US | AFN PRIME PACIFIC
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20697.ts
-#EXTINF:-1,US | AFN PRIME PULSE
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20698.ts
-#EXTINF:-1,US | AFN SPECTRUM
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20699.ts
-#EXTINF:-1,US | AFN SPORTS 2
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20701.ts
-#EXTINF:-1,US | CARTOON NETWORK
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20704.ts
 #EXTINF:-1,US | CNN
 http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20705.ts
 #EXTINF:-1,US | ION TV
 http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20703.ts
-#EXTINF:-1,US | COMEDY CENTRAL
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20706.ts
-#EXTINF:-1,US | HALLMARK
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20707.ts
-#EXTINF:-1,US | HISTORY
-http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20708.ts
 #EXTINF:-1,US | NBCSN
 http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20709.ts
 #EXTINF:-1,|US| ABC News
@@ -904,8 +592,6 @@ http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
 http://abclive.abcnews.com/i/abc_live2@136328/master.m3u8
 #EXTINF:0 tvg-id="ABCN3",ABC News Digital 3
 http://abclive.abcnews.com/i/abc_live3@136329/master.m3u8
-#EXTINF:0 tvg-id="ABCN4",ABC News Digital 4
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:0 tvg-id="ABCN5",ABC News Digital 5
 http://abclive.abcnews.com/i/abc_live5@136331/master.m3u8
 #EXTINF:0,C-SPAN Live Event
@@ -924,8 +610,6 @@ http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:0,7 News (WDHH-TV)
 http://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
-#EXTINF:0,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:0,Fox 5 Washington DC (WTTG-TV)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0,KOB4 News
@@ -976,18 +660,10 @@ http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:0,CBSN
 http://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:0,Fox News Talk
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:0,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:0,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0,RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:0,Weather Network
 http://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
-#EXTINF:0,WeatherNation TV
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:0,ABC News Channel
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
 #EXTINF:0,CBN News
@@ -1104,26 +780,6 @@ http://server.poweriptv.cl:25461/live/asd123/asd123/1388.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/1385.ts
 #EXTINF:-1,ES: Bein Sport HD
 http://server.poweriptv.cl:25461/live/asd123/asd123/1386.ts
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1,MSNBC (SD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 #EXTINF:-1,Investigation Discovery
@@ -1136,12 +792,8 @@ http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 #EXTINF:-1,Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 #EXTINF:-1,D23 TV
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
 #EXTINF:-1,Mello TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
-#EXTINF:-1 group-title="1-USA",Weather Channel US
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 

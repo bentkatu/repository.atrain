@@ -1,0 +1,16 @@
+#EXTM3U
+re123/10396.ts
+#EXTINF:-1,UK: BBC 1
+http://painel.soeu.kim:8080/live/toniparis/paris/2247.ts
+#EXTINF:-1,UK: BBC 2
+http://painel.soeu.kim:8080/live/toniparis/paris/2248.ts
+#EXTINF:-1,UK: BBC 3
+http://painel.soeu.kim:8080/live/toniparis/paris/2249.ts
+#EXTINF:-1,UK: Boomerang
+http://painel.soeu.kim:8080/live/toniparis/paris/2744.ts
+#EXTINF:-1,UK: CBS action
+http://painel.soeu.kim:8080/live/toniparis/paris/2256.ts
+#EXTINF:-1,UK: ITV3
+http://painel.soeu.kim:8080/live/toniparis/paris/2262.ts
+#EXTINF:-1,UK: ITV4
+http://painel.soeu.kim:8080/live/toniparis/paris/2263.ts

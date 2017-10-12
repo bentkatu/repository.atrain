@@ -1,0 +1,64 @@
+#EXTM3U
+re123/10396.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/20701.ts
+#EXTINF:-1,UK: AT RACES
+http://painel.soeu.kim:8080/live/toniparis/paris/2246.ts
+#EXTINF:-1,UK: BT ESPN HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2252.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2253.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2254.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2255.ts
+#EXTINF:-1,UK: Liverpool FC  tv
+http://painel.soeu.kim:8080/live/toniparis/paris/2264.ts
+#EXTINF:-1,UK: Manchester TV
+http://painel.soeu.kim:8080/live/toniparis/paris/2265.ts
+#EXTINF:-1,USA: MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,USA: MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,USA: MLB Network HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/1372.ts
+#EXTINF:-1,USA: NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,USA: NFL Channel HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/1371.ts
+#EXTINF:-1,USA: NFL Network HD
+http://server.poweriptv.cl:25461/live/asd123/asd123/1411.ts
+#EXTINF:-1,USA: NFL Network 1
+http://server.poweriptv.cl:25461/live/asd123/asd123/1389.ts
+#EXTINF:-1,USA: NFL Network 1080i
+http://server.poweriptv.cl:25461/live/asd123/asd123/1401.ts
+#EXTINF:-1,USA: NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,UK: Premier Sports HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2269.ts
+#EXTINF:-1,UK: Racing
+http://painel.soeu.kim:8080/live/toniparis/paris/2270.ts
+#EXTINF:-1,USA: Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,USA: Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2282.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2283.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2284.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://painel.soeu.kim:8080/live/toniparis/paris/2286.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://painel.soeu.kim:8080/live/toniparis/paris/2287.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://painel.soeu.kim:8080/live/toniparis/paris/2288.ts
+#EXTINF:-1,USA: TSN1
+http://server.poweriptv.cl:25461/live/asd123/asd123/425.ts
+#EXTINF:-1,USA: TSN4
+http://server.poweriptv.cl:25461/live/asd123/asd123/423.ts
+#EXTINF:-1,USA: TSN5
+http://server.poweriptv.cl:25461/live/asd123/asd123/422.ts
+#EXTINF:-1,USA: WWE Network
+http://server.poweriptv.cl:25461/live/asd123/asd123/797.ts
