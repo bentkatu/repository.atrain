@@ -26,7 +26,7 @@ addon_id     = xbmcaddon.Addon().getAddonInfo('id') # Grab our add-on id
 home         = xbmc.translatePath('special://home') # Set the path of the home Kodi folder
 
 # Our master XML we want to load up
-main_xml     = 'https://github.com/bentkatu/repository.atrain/blob/master/plugin.video.tempusplaylist/resources/video.xml'
+main_xml     = 'https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/video.xml'
 
 # Alternatively you could set a local XML but online obviously means less add-on updates to push
 # main_xml     = os.path.join(home,'addons',addon_id,'resources','video.xml')
