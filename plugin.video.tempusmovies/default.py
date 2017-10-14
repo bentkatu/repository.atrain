@@ -53,22 +53,6 @@ def Main_Menu(url=main_xml):
     if debug == 'true':
         Add_Dir ( '[COLOR=lime]Koding Tutorials[/COLOR]', '', "tutorials", True, '', '', '' )
 
-def Open_Url(url):
-    req = urllib2.Request(url)
-    req.add_header('User-Agent', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3')
-    response = ''
-    link = ''
-    try: 
-        response = urllib2.urlopen(req)
-        link=response.read()
-        response.close()
-    except: pass
-    if link != '':
-        return link
-    else:
-        link = 'Opened'
-        return link
-
 #############################################################
 # COMMENT OUT THE FOLLOWING 2 LINES WHEN READY FOR RELEASE!!!
     #else:
