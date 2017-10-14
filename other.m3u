@@ -1,17 +1,87 @@
 #EXTM3U
 re123/10396.ts
+#EXTINF:-1,|PT| AMC
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1069.ts
+#EXTINF:-1,|PT| AXN
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1067.ts
+#EXTINF:-1,|PT| AXN Black
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1068.ts
+#EXTINF:-1,|PT| AXN White
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1066.ts
+#EXTINF:-1,|PT| BTV 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1065.ts
 #EXTINF:-1,USA: California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,|PT| Canal Cine Mundo
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1064.ts
+#EXTINF:-1,|PT| Cancao Nova
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1063.ts
+#EXTINF:-1,|PT| Cartoon Network
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1030.ts
 #EXTINF:-1,USA: Channel 7 [NoRoku]
 http://radio.7chan.org:8000/CH7
 #EXTINF:-1,USA: Classic Arts Showcase
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,|PT| Disney Channel
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1029.ts
 #EXTINF:-1,USA: Ditty TV
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1,|PT| FOX
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1060.ts
+#EXTINF:-1,|PT| FOX Comedy
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1059.ts
+#EXTINF:-1,|PT| FOX Crime
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1058.ts
+#EXTINF:-1,|PT| FOX Life
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1057.ts
+#EXTINF:-1,|PT| FOX Movies
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1056.ts
+#EXTINF:-1,|PT| Globo
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1054.ts
+#EXTINF:-1,|PT| Hollywood
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1053.ts
 #EXTINF:-1,USA: MeTV
 http://video.metv.com/metv/index.m3u8
+#EXTINF:-1,|PT| Motors TV
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1028.ts
+#EXTINF:-1,|PT| MTV Portugal
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1027.ts
+#EXTINF:-1,|PT| Nat Geo Wild
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1052.ts
+#EXTINF:-1,|PT| National Geographic
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1051.ts
+#EXTINF:-1,|PT| RTP 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1049.ts
+#EXTINF:-1,|PT| RTP 2
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1048.ts
+#EXTINF:-1,|PT| RTP Acores
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1026.ts
+#EXTINF:-1,|PT| RTP Madeira
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1025.ts
+#EXTINF:-1,|PT| SIC
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1046.ts
+#EXTINF:-1,|PT| SIC Kids
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1045.ts
+#EXTINF:-1,|PT| Sic Noticias
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1024.ts
 #EXTINF:-1,USA: SupTV
 http://91.134.238.137/live/alpha/index.m3u8
+#EXTINF:-1,|PT| SYFY
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1038.ts
+#EXTINF:-1,|PT| TV Cine 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1037.ts
+#EXTINF:-1,|PT| TV Cine 2
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1036.ts
+#EXTINF:-1,|PT| TV Cine 3
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1035.ts
+#EXTINF:-1,|PT| TV Cine 4
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1034.ts
+#EXTINF:-1,|PT| TV Serie
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1023.ts
+#EXTINF:-1,|PT| TVI 24
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1032.ts
+#EXTINF:-1,|PT| TVI Ficcao
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1031.ts
 #EXTINF:-1,iHeart 80s
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 #EXTINF:-1,Lite FM 106.7

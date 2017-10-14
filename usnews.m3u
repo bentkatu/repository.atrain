@@ -24,6 +24,8 @@ http://server.poweriptv.cl:25461/live/asd123/asd123/435.ts
 http://server.poweriptv.cl:25461/live/asd123/asd123/433.ts
 #EXTINF:-1,USA: Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,|PT| FOX News
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1055.ts
 #EXTINF:-1,USA: Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 #EXTINF:-1,USA: InfoWars

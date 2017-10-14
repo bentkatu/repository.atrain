@@ -1,9 +1,17 @@
 #EXTM3U
 re123/10396.ts
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://major1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/117.ts
+#EXTINF:-1,|PT| Euro Sport 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1062.ts
+#EXTINF:-1,|PT| Euro Sport 2
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1061.ts
 #EXTINF:-1,USA: MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,USA: MLB Network HD
 http://server.poweriptv.cl:25461/live/asd123/asd123/1372.ts
+#EXTINF:-1,USA: NBA HD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/318.ts
 #EXTINF:-1,USA: NFL Channel HD
 http://server.poweriptv.cl:25461/live/asd123/asd123/1371.ts
 #EXTINF:-1,USA: NFL Network HD
@@ -18,10 +26,24 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1,USA: Rev'n
 http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,|PT| Sport TV
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1044.ts
+#EXTINF:-1,|PT| Sport TV 1
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1043.ts
+#EXTINF:-1,|PT| Sport TV 2
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1042.ts
+#EXTINF:-1,|PT| Sport TV 3
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1041.ts
+#EXTINF:-1,|PT| Sport TV 4
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1040.ts
+#EXTINF:-1,|PT| Sport TV 5
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1039.ts
 #EXTINF:-1,USA: TSN1
 http://server.poweriptv.cl:25461/live/asd123/asd123/425.ts
 #EXTINF:-1,USA: TSN4
 http://server.poweriptv.cl:25461/live/asd123/asd123/423.ts
+#EXTINF:-1,USA: TSN 4 HD-CA
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/298.ts
 #EXTINF:-1,USA: TSN5
 http://server.poweriptv.cl:25461/live/asd123/asd123/422.ts
 #EXTINF:-1,USA: WWE Network
