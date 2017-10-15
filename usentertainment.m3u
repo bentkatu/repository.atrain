@@ -1,13 +1,27 @@
 #EXTM3U
 re123/10396.ts
+#EXTINF:0,Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 #EXTINF:-1,USA: HBO East
 http://server.poweriptv.cl:25461/live/asd123/asd123/701.ts
 #EXTINF:-1,USA: HBO HD
 http://server.poweriptv.cl:25461/live/asd123/asd123/702.ts
 #EXTINF:-1,USA: Hunt Channel
 http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:0,Nature Vision
+http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
+#EXTINF:0,PBS Kids
+http://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:0,Pursuit Channel
+http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
 #EXTINF:-1,USA: QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:0,TACH
+http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
 #EXTINF:-1,USA: The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1,USA: Starz HD

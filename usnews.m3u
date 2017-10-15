@@ -1,9 +1,21 @@
 #EXTM3U
 re123/10396.ts
+#EXTINF:0,7 News (WDHH-TV)
+http://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
 #EXTINF:-1,USA: ABC News
 http://server.poweriptv.cl:25461/live/asd123/asd123/437.ts
 #EXTINF:-1,USA: ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0,ABC News Channel
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+#EXTINF:-1 tvg-id="ABCN1" tvg-num="101",ABC News Digital
+http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
+#EXTINF:0 tvg-id="ABCN2",ABC News Digital 2
+http://abclive.abcnews.com/i/abc_live2@136328/master.m3u8
+#EXTINF:0 tvg-id="ABCN3",ABC News Digital 3
+http://abclive.abcnews.com/i/abc_live3@136329/master.m3u8
+#EXTINF:0 tvg-id="ABCN5",ABC News Digital 5
+http://abclive.abcnews.com/i/abc_live5@136331/master.m3u8
 #EXTINF:-1,USA: Biz TV
 http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 #EXTINF:-1,USA: Bloomberg TV
@@ -16,37 +28,111 @@ http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1,USA: C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:0,C-SPAN Live Event
+http://cspan1nontve-lh.akamaihd.net/i/CSpan1NonTVE_1@312667/master.m3u8
+#EXTINF:0,C-SPAN 2 Live Event
+http://cspan2nontve-lh.akamaihd.net/i/CSpan2NonTVE_1@312669/master.m3u8
+#EXTINF:0,C-SPAN 3 Live Event
+http://cspan3nontve-lh.akamaihd.net/i/CSpan3NonTVE_1@312670/master.m3u8
 #EXTINF:-1,USA: CBS
 http://server.poweriptv.cl:25461/live/asd123/asd123/436.ts
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,USA: CBSN
 http://server.poweriptv.cl:25461/live/asd123/asd123/435.ts
+#EXTINF:0,CBSN
+http://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0,CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:0,CGTN English
+https://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1,USA: CNN
 http://server.poweriptv.cl:25461/live/asd123/asd123/433.ts
+#EXTINF:0,CNN Debate
+http://cnn-lh.akamaihd.net/i/cnndebates_1@352100/master.m3u8
 #EXTINF:-1,USA: Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:0,Fox 5 Washington DC (WTTG-TV)
+http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1,|PT| FOX News
 http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1055.ts
 #EXTINF:-1,USA: Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 #EXTINF:-1,USA: InfoWars
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0,KOB4 News
+http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:0,KXAN News
+http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
 #EXTINF:-1,USA: MSNBC (SD)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
 #EXTINF:-1,USA: MSNBC (SD)*
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
 #EXTINF:-1,USA: MSNBC (HD)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0,MSNBC Live Event
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1,USA: NASA TV Media
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 #EXTINF:-1,USA: NASA TV Public
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:0,NBC Bay Area (KNTV-TV)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:0,NBC Bay Area Traffic Cam (KNTV-TV)
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:0,NBC News Live Event
+http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
+#EXTINF:0,NBC2 News (KTUU-TV)
+http://api.new.livestream.com/accounts/7987479/events/2929660/live.m3u8
+#EXTINF:0,NBC4 New York News (WNBC-TV)
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:0,NBC4 New York News (WNBC-TV) alt
+http://wnbclive-f.akamaihd.net/i/wnbca2_1@13992/master.m3u8
+#EXTINF:0,NBC5 KFYR-TV
+http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
+#EXTINF:0,NBC5 KFYR-TV alt
+http://playlistserver.aws.syncbak.com/playlist/13353639/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ3MjIsImlzcyI6IldMUyIsIm1kNSI6IjlmZGUxN2VjY2IwNjg3ZDE4ZWZmMmYwNzkxNzkxMzlhIiwibWlkIjoiMTMzNTM2MzkifQ.JZ9ihQrHoiiQsFfQJ3cuyrEHAEWUktyrawJyVLsyQRo
+#EXTINF:0,NBC5 News (WMAQ-TV)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:0,NBC News Channel 13 (WNYT-TV)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:0,News4 (WRC-TV)
+http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0,News4 White House Cam (WRC-TV)
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:0,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,NewsWest 9 KWES
+http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0,NewsChannel 12 KTVZ
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:0,NRB Network
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1,USA: RT America
 https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:-1,USA: The Blaze
 https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1,USA: Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0,WBTV News
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0,WCCB News Rising
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1,USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,USA: Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0,Weather Network
+http://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
+#EXTINF:0,WSJ Live
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:0,WUSA9 Breaking News
+http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:0,WXXV25 24/7
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
