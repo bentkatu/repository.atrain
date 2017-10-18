@@ -1,0 +1,26 @@
+<items>
+        <item>
+        <title>[COLORdarkorange]HALLOWEEN[/COLOR]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/halloween.xml</link>
+        <thumbnail>https://image.freepik.com/free-vector/spooky-halloween-background-with-pumpkins-in-a-cemetery_1048-3055.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLORpurple1]-----COMING SOON-----[/COLOR]</title>
+        <link>none</link>
+        <thumbnail>https://image.freepik.com/free-vector/background-of-empty-room-with-text-of-coming-soon_1017-5068.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLORsaddlebrown]THANKSGIVING[/COLOR]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/thanksgiving.xml</link>
+        <thumbnail>https://cdn.raceroster.com/image_uploads/fd7e9bb70a40c6805a4634cab5d8d4f5.png</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLORred]CHRISTMAS[/COLOR]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/christmas.xml</link>
+        <thumbnail>http://www.dream-wallpaper.com/free-wallpaper/holiday-wallpaper/christmas-theme-4-wallpaper/1920x1440/free-wallpaper-2.jpg</thumbnail>
+        </item>
+
+</items>        

@@ -1,0 +1,14 @@
+<items>
+        <item>
+        <title>[COLORdarkorange]Halloween Movies[/COLOR]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/halmovies.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLORdarkorange]Halloween Movie Series[/COLOR]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/halseries.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+</items>        
