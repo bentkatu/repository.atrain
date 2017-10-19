@@ -29,4 +29,10 @@
         <thumbnail>none</thumbnail>
         </item>
 
+        <item>
+        <title>[B][COLORdarkorange]Hammer Films[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/hammerfilms.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
 </items>        
