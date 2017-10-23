@@ -16,12 +16,14 @@
         <title>[B][COLORsaddlebrown]THANKSGIVING[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/thanksgiving.xml</link>
         <thumbnail>https://cdn.raceroster.com/image_uploads/fd7e9bb70a40c6805a4634cab5d8d4f5.png</thumbnail>
+        <fanart>http://www.kubipet.com/data/out/171/iwp780460613-thanksgiving-wallpapers.png</fanart>
         </item>
 
         <item>
         <title>[B][COLORred]CHRISTMAS[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/christmas.xml</link>
         <thumbnail>http://www.dream-wallpaper.com/free-wallpaper/holiday-wallpaper/christmas-theme-4-wallpaper/1920x1440/free-wallpaper-2.jpg</thumbnail>
+        <fanart>http://wallpaper.pickywallpapers.com/1920x1080/santa-into-the-winter-christmas-night-2.jpg</fanart>
         </item>
 
 </items>        
