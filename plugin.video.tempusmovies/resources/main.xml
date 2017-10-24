@@ -1,9 +1,20 @@
 <items>
         <item>
+        <title>[B][COLORwhite]##### WELCOME TO TEMPUS MOVIES#####[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>https://i.imgur.com/xSVd6DM.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORfuchsia]Contact me via Twitter @_atrain_ooOO for Requests[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>https://i.imgur.com/907gLMr.jpg</thumbnail>
+        </item>
+
+        <item>
         <title>[B][COLORdarkorange]HALLOWEEN[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/halloween.xml</link>
         <thumbnail>https://image.freepik.com/free-vector/spooky-halloween-background-with-pumpkins-in-a-cemetery_1048-3055.jpg</thumbnail>
-        <fanart>http://wallpaper.pickywallpapers.com/1920x1080/witch-flying-to-the-castle.jpg</fanart>
         </item>
 
         <item>
@@ -16,14 +27,12 @@
         <title>[B][COLORsaddlebrown]THANKSGIVING[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/thanksgiving.xml</link>
         <thumbnail>https://cdn.raceroster.com/image_uploads/fd7e9bb70a40c6805a4634cab5d8d4f5.png</thumbnail>
-        <fanart>http://www.kubipet.com/data/out/171/iwp780460613-thanksgiving-wallpapers.png</fanart>
         </item>
 
         <item>
         <title>[B][COLORred]CHRISTMAS[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/christmas.xml</link>
         <thumbnail>http://www.dream-wallpaper.com/free-wallpaper/holiday-wallpaper/christmas-theme-4-wallpaper/1920x1440/free-wallpaper-2.jpg</thumbnail>
-        <fanart>http://wallpaper.pickywallpapers.com/1920x1080/santa-into-the-winter-christmas-night-2.jpg</fanart>
         </item>
 
 </items>        
