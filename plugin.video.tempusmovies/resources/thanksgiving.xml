@@ -1,8 +1,26 @@
 <items>
         <item>
-        <title>[B][COLORsaddlebrown]##### COMING SOON #####[/COLOR][/B]</title>
+        <title>[B][COLORsaddlebrown]##### THANKSGIVING MOVIES #####[/COLOR][/B]</title>
         <link>none</link>
-        <thumbnail>http://cdn1.theodysseyonline.com/files/2015/11/23/6358389523646091441895732180_thanksgiving-clip-art-printables-3.jpg</thumbnail>
+        <thumbnail>https://i.imgur.com/7DwdXTo.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORsaddlebrown]Thanksgiving Movies[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/thanksmovies.xml</link>
+        <thumbnail>https://i.imgur.com/xY5nYB8.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORsaddlebrown]##### THANKSGIVING TV SHOWS #####[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>https://i.imgur.com/7DwdXTo.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORsaddlebrown]Thanksgiving TV Shows[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/thankstv.xml</link>
+        <thumbnail>https://i.imgur.com/P2LuwVk.jpg</thumbnail>
         </item>
 
 </items>
