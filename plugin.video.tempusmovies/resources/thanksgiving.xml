@@ -1,6 +1,6 @@
 <items>
         <item>
-        <title>[B][COLORskyblue]##### THANKSGIVING MOVIES #####[/COLOR][/B]</title>
+        <title>[B][COLORskyblue]##### THANKSGIVING #####[/COLOR][/B]</title>
         <link>none</link>
         <thumbnail>https://i.imgur.com/7DwdXTo.jpg</thumbnail>
         </item>
@@ -12,9 +12,9 @@
         </item>
 
         <item>
-        <title>[B][COLORskyblue]##### THANKSGIVING TV SHOWS #####[/COLOR][/B]</title>
-        <link>none</link>
-        <thumbnail>https://i.imgur.com/7DwdXTo.jpg</thumbnail>
+        <title>[B][COLORsaddlebrown]Thanksgiving Movie Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/thanksmovieseries.xml</link>
+        <thumbnail>https://i.imgur.com/1xWNEsS.png</thumbnail>
         </item>
 
         <item>
