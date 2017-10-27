@@ -1,0 +1,20 @@
+<items>
+        <item>
+        <title>[B][COLORwhite]##### STRANGER THINGS #####[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/kpZHlOFAQitAj8f9gGhKBaIYWfJ.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Season 1[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/strangerthings1.xml</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/w11o86GIqTSV9LTIuFu9AQMcSvd.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Season 2[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/strangerthings2.xml</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/cuqg9Dp9cjsF9VykTtYdddp14bS.jpg</thumbnail>
+        </item>
+
+</items>
