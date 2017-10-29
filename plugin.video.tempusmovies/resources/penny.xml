@@ -1,0 +1,26 @@
+<items>
+		<item>
+        <title>[B][COLORwhite]##### PENNY DREADFUL #####[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/dzNqJrHgt6xqcgrJHidUpF5dejt.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Penny Dreadful Season 1[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/penny1.xml</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/nqKhgpOdbkEV1TktQFuvsZ5BthF.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Penny Dreadful Season 2[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/penny2.xml</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/uCTYkG8RGRUBMaxjrhXbDXStoke.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Penny Dreadful Season 3[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/penny3.xml</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/j89e4a93jJrzFnP7bWVdFEpEjv2.jpg</thumbnail>
+        </item>
+
+</items>
