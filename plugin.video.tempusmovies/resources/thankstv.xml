@@ -1,14 +1,14 @@
 <items>
         <item>
         <title>[B][COLORskyblue]##### THANKSGIVING TV SHOWS #####[/COLOR][/B]</title>
-        <link></link>
+        <link>none</link>
         <thumbnail>https://i.imgur.com/kgNLn9q.jpg</thumbnail>
         </item>
 
         <item>
-        <title>[B][COLORsaddlebrown][/COLOR][/B]</title>
-        <link></link>
-        <thumbnail></thumbnail>
+        <title>[B][COLORsaddlebrown]Friends[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/friends.xml</link>
+        <thumbnail>https://i.imgur.com/43qbKzM.jpg</thumbnail>
         </item>
 
 </items>
