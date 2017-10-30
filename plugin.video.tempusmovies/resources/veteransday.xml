@@ -1,8 +1,14 @@
 <items>
         <item>
-        <title>[B][COLORred]##### [COLORwhite]COMING [COLORblue]SOON #####[/COLOR][/B]</title>
+        <title>[B][COLORred]##### [COLORwhite]VETERANS [COLORblue]DAY #####[/COLOR][/B]</title>
         <link>none</link>
         <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORred]The War at Home (1996)[/COLOR][/B]</title>
+        <link></link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/la11ac7YYCDBsizOkKxqwn71VKQ.jpg</thumbnail>
         </item>
 
 </items>
