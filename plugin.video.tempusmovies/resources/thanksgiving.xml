@@ -20,7 +20,13 @@
         <item>
         <title>[B][COLORsaddlebrown]Thanksgiving TV Shows[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/thankstv.xml</link>
-        <thumbnail>https://i.imgur.com/P2LuwVk.jpg</thumbnail>
+        <thumbnail>https://i.imgur.com/hftA9q8.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORsaddlebrown]Random Thanksgiving TV Episodes[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/randomthankstv.xml</link>
+        <thumbnail></thumbnail>
         </item>
 
 </items>
